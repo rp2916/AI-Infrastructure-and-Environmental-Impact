@@ -1,0 +1,10 @@
+Hardware_Model,Rack_Power_kW,Cooling_Water_L_per_kWh,Release_Year
+Standard Web Server (CPU),7.5,0.5,2018
+Nvidia V100 GPU Rack,15.0,1.2,2017
+Nvidia A100 GPU Rack,25.0,1.8,2020
+Nvidia H100 GPU Rack,42.0,2.5,2022
+Nvidia B200 (Blackwell) Rack,100.0,3.2,2024
+Google TPU v4 Pod,30.0,2.0,2021
+Google TPU v5p Pod,45.0,2.2,2023
+Meta MTIA v1,20.0,1.5,2023
+AWS Trainium Cluster,22.0,1.6,2021

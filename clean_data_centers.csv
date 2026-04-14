@@ -1,0 +1,1201 @@
+Facility_ID,Company,Region,Country_Reported,Year_Operational,Total_Facility_Power_MW,Estimated_AI_Workload_Pct,Primary_Cooling,Reported_PUE,Facility_Tier
+GOO_VIR_2019_0000,Google Cloud,Virginia,United States,2019,137,16,Evaporative Water,1.328,Large
+GOO_SIN_2018_0001,Google Cloud,Singapore,Singapore,2018,140,23,Air Cooled,1.287,Large
+MIC_VIR_2018_0002,Microsoft Azure,Virginia,United States,2018,147,18,Evaporative Water,1.354,Large
+MIC_IOW_2022_0003,Microsoft Azure,Iowa,United States,2022,303,67,Direct-to-Chip Liquid,1.207,Hyperscale
+GOO_DUB_2009_0004,Google Cloud,Dublin,Ireland,2009,61,21,Air Cooled,1.598,Large
+MIC_DUB_2022_0005,Microsoft Azure,Dublin,Ireland,2022,57,77,Direct-to-Chip Liquid,1.221,Large
+MIC_FRA_2020_0006,Microsoft Azure,Frankfurt,Germany,2020,121,19,Air Cooled,1.162,Large
+MIC_ORE_2016_0007,Microsoft Azure,Oregon,us,2016,246,10,Evaporative Water,1.362,Hyperscale
+AMA_TEX_2020_0008,Amazon AWS,Texas,United States,2020,245,27,Direct-to-Chip Liquid,1.209,Hyperscale
+MET_CAL_2021_0009,Meta,California,United States,2021,281,60,Evaporative Water,1.306,Hyperscale
+GOO_TOK_2019_0010,Google Cloud,Tokyo,Japan,2019,207,31,Evaporative Water,1.169,Hyperscale
+AMA_SYD_2014_0011,Amazon AWS,Sydney,Australia,2014,127,4,Air Cooled,1.416,Large
+AMA_VIR_2011_0012,Amazon AWS,Virginia,United States,2011,204,2,Evaporative Water,1.573,Hyperscale
+GOO_MUM_2020_0013,Google Cloud,Mumbai,India,2020,169,32,Evaporative Water,1.366,Hyperscale
+MIC_IOW_2017_0014,Microsoft Azure,Iowa,United States,2017,88,21,Air Cooled,1.335,Large
+MIC_TOK_2022_0015,Microsoft Azure,Tokyo,Japan,2022,201,94,Direct-to-Chip Liquid,1.103,Hyperscale
+AMA_VIR_2009_0016,Amazon AWS,Virginia,United States,2009,212,20,Evaporative Water,1.427,Hyperscale
+GOO_FRA_2015_0017,Google Cloud,Frankfurt,Germany,2015,127,13,Air Cooled,1.262,Large
+MET_VIR_2017_0018,Meta,Virginia,United States,2017,196,19,Air Cooled,1.539,Hyperscale
+MET_DUB_2019_0019,Meta,Dublin,Ireland,2019,165,14,Air Cooled,1.178,Hyperscale
+MET_IOW_2018_0020,Meta,Iowa,United States,2018,178,39,Immersion Cooling,1.41,Hyperscale
+GOO_SYD_2012_0021,Google Cloud,Sydney,Australia,2012,73,18,Air Cooled,1.449,Large
+DIG_SIN_2016_0022,Digital Realty,Singapore,Singapore,2016,55,0,Evaporative Water,1.346,Large
+MIC_SAO_2016_0023,Microsoft Azure,Sao Paulo,Brazil,2016,186,1,Air Cooled,1.354,Hyperscale
+AMA_AMS_2012_0024,Amazon AWS,Amsterdam,Netherlands,2012,50,0,Evaporative Water,1.473,Large
+GOO_SIN_2025_0025,Google Cloud,Singapore,Singapore,2025,84,66,Evaporative Water,1.109,Large
+EQU_SAO_2016_0026,Equinix,Sao Paulo,Brazil,2016,65,4,Evaporative Water,1.171,Large
+GOO_AMS_2017_0027,Google Cloud,Amsterdam,Netherlands,2017,65,9,Evaporative Water,1.442,Large
+AMA_SIN_2014_0028,Amazon AWS,Singapore,Singapore,2014,177,14,Air Cooled,1.414,Hyperscale
+AMA_VIR_2017_0029,Amazon AWS,Virginia,United States,2017,235,7,Evaporative Water,1.503,Hyperscale
+AMA_CAL_2008_0030,Amazon AWS,California,United States,2008,248,24,Evaporative Water,1.756,Hyperscale
+MIC_FRA_2017_0031,Microsoft Azure,Frankfurt,Germany,2017,100,3,Air Cooled,1.433,Large
+MIC_MUM_2019_0032,Microsoft Azure,Mumbai,India,2019,118,29,Air Cooled,1.442,Large
+GOO_SAO_2016_0033,Google Cloud,Sao Paulo,Brazil,2016,156,13,Evaporative Water,1.573,Hyperscale
+MIC_IOW_2016_0034,Microsoft Azure,Iowa,United States,2016,73,18,Air Cooled,1.452,Large
+MET_TEX_2015_0035,Meta,Texas,United States,2015,20,20,Air Cooled,1.443,Standard
+EQU_ORE_2019_0036,Equinix,Oregon,United States,2019,53,43,Air Cooled,1.236,Large
+AMA_FRA_2025_0037,Amazon AWS,Frankfurt,Germany,2025,108,77,Air Cooled,1.137,Large
+AMA_MUM_2018_0038,Amazon AWS,Mumbai,India,2018,190,35,Immersion Cooling,1.346,Hyperscale
+AMA_IOW_2017_0039,Amazon AWS,Iowa,United States,2017,64,11,Air Cooled,1.456,Large
+MIC_VIR_2018_0040,Microsoft Azure,Virginia,United States,2018,131,31,Evaporative Water,1.432,Large
+DIG_TEX_2020_0041,Digital Realty,Texas,United States,2020,63,46,Direct-to-Chip Liquid,1.115,Large
+MIC_TOK_2014_0042,Microsoft Azure,Tokyo,Japan,2014,85,0,Air Cooled,1.132,Large
+GOO_SIN_2017_0043,Google Cloud,Singapore,Singapore,2017,61,6,Air Cooled,1.314,Large
+AMA_CAL_2021_0044,Amazon AWS,California,United States,2021,20,44,Evaporative Water,1.322,Standard
+AMA_AMS_2025_0045,Amazon AWS,Amsterdam,Netherlands,2025,30,72,Direct-to-Chip Liquid,1.254,Standard
+MIC_CAL_2017_0046,Microsoft Azure,California,United States,2017,219,14,Evaporative Water,1.346,Hyperscale
+AMA_SIN_2023_0047,Amazon AWS,Singapore,Singapore,2023,181,43,Direct-to-Chip Liquid,1.325,Hyperscale
+AMA_SIN_2017_0048,Amazon AWS,Singapore,Singapore,2017,181,0,Air Cooled,1.508,Hyperscale
+AMA_TEX_2010_0049,Amazon AWS,Texas,United States,2010,190,7,Evaporative Water,1.533,Hyperscale
+MIC_SYD_2017_0050,Microsoft Azure,Sydney,Australia,2017,273,13,Air Cooled,1.572,Hyperscale
+MET_TEX_2014_0051,Meta,Texas,United States,2014,20,4,Air Cooled,1.409,Standard
+AMA_IOW_2012_0052,Amazon AWS,Iowa,United States,2012,261,0,Air Cooled,1.345,Hyperscale
+AMA_MUM_2014_0053,Amazon AWS,Mumbai,India,2014,114,0,Evaporative Water,1.508,Large
+AMA_CAL_2019_0054,Amazon AWS,California,United States,2019,187,19,Air Cooled,1.14,Hyperscale
+AMA_DUB_2011_0055,Amazon AWS,Dublin,Ireland,2011,165,4,Air Cooled,1.407,Hyperscale
+MET_FRA_2015_0056,Meta,Frankfurt,Germany,2015,310,8,Direct-to-Chip Liquid,1.244,Hyperscale
+AMA_SAO_2013_0057,Amazon AWS,Sao Paulo,Brazil,2013,161,22,Evaporative Water,1.455,Hyperscale
+MIC_FRA_2019_0058,Microsoft Azure,Frankfurt,Germany,2019,109,5,Direct-to-Chip Liquid,1.417,Large
+MET_TEX_2022_0059,Meta,Texas,united states,2022,46,66,Direct-to-Chip Liquid,1.223,Standard
+AMA_AMS_2014_0060,Amazon AWS,Amsterdam,Netherlands,2014,20,14,Air Cooled,1.289,Standard
+GOO_FRA_2014_0061,Google Cloud,Frankfurt,Germany,2014,95,18,Air Cooled,1.598,Large
+GOO_FRA_2011_0062,Google Cloud,Frankfurt,Germany,2011,196,6,Air Cooled,1.50340625,Hyperscale
+MET_IOW_2025_0063,Meta,Iowa,United States,2025,112,74,Evaporative Water,1.366,Large
+MIC_MUM_2018_0064,Microsoft Azure,Mumbai,India,2018,128,21,Evaporative Water,1.272,Large
+MET_ORE_2016_0065,Meta,Oregon,Unknown,2016,237,3,Air Cooled,1.325,Hyperscale
+MIC_MUM_2025_0066,Microsoft Azure,Mumbai,India,2025,191,60,Immersion Cooling,1.168,Hyperscale
+EQU_DUB_2025_0067,Equinix,Dublin,Ireland,2025,70,71,Direct-to-Chip Liquid,1.297,Large
+MIC_SYD_2019_0068,Microsoft Azure,Sydney,Australia,2019,232,43,Evaporative Water,1.381,Hyperscale
+MIC_FRA_2013_0069,Microsoft Azure,Frankfurt,Germany,2013,187,12,Air Cooled,1.488,Hyperscale
+MIC_VIR_2022_0070,Microsoft Azure,Virginia,United States,2022,197,78,Evaporative Water,1.146,Hyperscale
+MIC_AMS_2014_0071,Microsoft Azure,Amsterdam,Netherlands,2014,141,3,Air Cooled,1.378,Large
+MET_CAL_2011_0072,Meta,California,United States,2011,275,21,Air Cooled,1.364,Hyperscale
+AMA_SAO_2013_0073,Amazon AWS,Sao Paulo,Brazil,2013,20,22,Air Cooled,1.437,Standard
+AMA_AMS_2013_0074,Amazon AWS,Amsterdam,Netherlands,2013,143,23,Air Cooled,1.485,Large
+GOO_MUM_2009_0075,Google Cloud,Mumbai,India,2009,285,23,Air Cooled,1.707,Hyperscale
+AMA_SAO_2015_0076,Amazon AWS,Sao Paulo,Brazil,2015,27,13,Evaporative Water,1.449,Standard
+MET_MUM_2018_0077,Meta,Mumbai,India,2018,61,46,Evaporative Water,1.416,Large
+MIC_SAO_2014_0078,Microsoft Azure,Sao Paulo,Brazil,2014,20,17,Air Cooled,1.483,Standard
+MET_AMS_2008_0079,Meta,Amsterdam,Netherlands,2008,126,9,Air Cooled,1.481,Large
+MIC_CAL_2016_0080,Microsoft Azure,California,United States,2016,171,19,Evaporative Water,1.39,Hyperscale
+GOO_SAO_2012_0081,Google Cloud,Sao Paulo,Brazil,2012,321,0,Evaporative Water,1.572,Hyperscale
+GOO_ORE_2016_0082,Google Cloud,Oregon,United States,2016,284,12,Air Cooled,1.412,Hyperscale
+AMA_MUM_2021_0083,Amazon AWS,Mumbai,India,2021,154,37,Air Cooled,1.286,Hyperscale
+MIC_VIR_2012_0084,Microsoft Azure,Virginia,United States,2012,131,6,Air Cooled,1.549,Large
+GOO_SAO_2018_0085,Google Cloud,Sao Paulo,Brazil,2018,33,12,Evaporative Water,1.385,Standard
+MIC_FRA_2019_0086,Microsoft Azure,Frankfurt,Germany,2019,235,27,Evaporative Water,1.146,Hyperscale
+MIC_IOW_2017_0087,Microsoft Azure,Iowa,United States,2017,79,25,Air Cooled,1.508,Large
+GOO_FRA_2014_0088,Google Cloud,Frankfurt,Germany,2014,116,0,Evaporative Water,1.261,Large
+MIC_FRA_2023_0089,Microsoft Azure,Frankfurt,Germany,2023,211,31,Direct-to-Chip Liquid,1.325,Hyperscale
+MET_CAL_2020_0090,Meta,California,United States,2020,210,40,Air Cooled,1.19,Hyperscale
+MET_FRA_2015_0091,Meta,Frankfurt,Germany,2015,82,0,Air Cooled,1.406,Large
+MIC_MUM_2023_0092,Microsoft Azure,Mumbai,India,2023,181,64,Direct-to-Chip Liquid,1.245,Hyperscale
+MET_SYD_2016_0093,Meta,Sydney,australia,2016,64,8,Air Cooled,1.464,Large
+MET_TOK_2015_0094,Meta,Tokyo,Japan,2015,93,0,Air Cooled,1.544,Large
+AMA_MUM_2017_0095,Amazon AWS,Mumbai,India,2017,91,3,Air Cooled,1.329,Large
+GOO_SAO_2019_0096,Google Cloud,Sao Paulo,Brazil,2019,105,14,Direct-to-Chip Liquid,1.3206448598130838,Large
+MIC_SYD_2014_0097,Microsoft Azure,Sydney,Australia,2014,20,0,Evaporative Water,1.388,Standard
+GOO_SYD_2024_0098,Google Cloud,Sydney,Australia,2024,117,40,Evaporative Water,1.155,Large
+MET_SAO_2024_0099,Meta,Sao Paulo,Brazil,2024,232,35,Immersion Cooling,1.234,Hyperscale
+MIC_SIN_2016_0100,Microsoft Azure,Singapore,singapore,2016,272,0,Air Cooled,1.369,Hyperscale
+MIC_FRA_2015_0101,Microsoft Azure,Frankfurt,Germany,2015,248,24,Direct-to-Chip Liquid,1.426,Hyperscale
+MIC_MUM_2018_0102,Microsoft Azure,Mumbai,India,2018,168,22,Evaporative Water,1.504,Hyperscale
+MET_AMS_2018_0103,Meta,Amsterdam,Netherlands,2018,215,42,Evaporative Water,1.432,Hyperscale
+MET_TEX_2012_0104,Meta,Texas,United States,2012,87,3,Air Cooled,1.394,Large
+GOO_DUB_2014_0105,Google Cloud,Dublin,Ireland,2014,189,3,Air Cooled,1.454,Hyperscale
+MET_DUB_2017_0106,Meta,Dublin,Ireland,2017,142,5,Air Cooled,1.488,Large
+MIC_ORE_2021_0107,Microsoft Azure,Oregon,United States,2021,257,21,Air Cooled,1.321,Hyperscale
+GOO_SYD_2007_0108,Google Cloud,Sydney,Unknown,2007,247,3,Evaporative Water,1.619,Hyperscale
+MIC_ORE_2018_0109,Microsoft Azure,Oregon,United States,2018,251,30,Evaporative Water,1.501,Hyperscale
+MIC_MUM_2014_0110,Microsoft Azure,Mumbai,India,2014,287,11,Air Cooled,1.456,Hyperscale
+AMA_MUM_2021_0111,Amazon AWS,Mumbai,India,2021,20,28,Air Cooled,1.302,Standard
+AMA_ORE_2021_0112,Amazon AWS,Oregon,United States,2021,138,39,Evaporative Water,1.401,Large
+GOO_TEX_2018_0113,Google Cloud,Texas,United States,2018,101,22,Direct-to-Chip Liquid,1.225,Large
+GOO_CAL_2010_0114,Google Cloud,California,United States,2010,312,19,Air Cooled,1.283,Hyperscale
+AMA_SAO_2010_0115,Amazon AWS,Sao Paulo,Brazil,2010,194,24,Air Cooled,1.409,Hyperscale
+MIC_CAL_2014_0116,Microsoft Azure,California,United States,2014,235,25,Direct-to-Chip Liquid,1.424,Hyperscale
+AMA_AMS_2018_0117,Amazon AWS,Amsterdam,Netherlands,2018,107,35,Air Cooled,1.402,Large
+GOO_IOW_2012_0118,Google Cloud,Iowa,United States,2012,110,0,Air Cooled,1.465,Large
+GOO_TOK_2009_0119,Google Cloud,Tokyo,Japan,2009,57,15,Air Cooled,1.398,Large
+MET_FRA_2017_0120,Meta,Frankfurt,Germany,2017,307,0,Air Cooled,1.372,Hyperscale
+EQU_ORE_2016_0121,Equinix,Oregon,United States,2016,24,0,Air Cooled,1.398,Standard
+GOO_CAL_2018_0122,Google Cloud,California,United States,2018,154,34,Air Cooled,1.336,Hyperscale
+AMA_MUM_2018_0123,Amazon AWS,Mumbai,India,2018,160,53,Air Cooled,1.315,Hyperscale
+AMA_SAO_2021_0124,Amazon AWS,Sao Paulo,Brazil,2021,222,37,Evaporative Water,1.244,Hyperscale
+MIC_SYD_2014_0125,Microsoft Azure,Sydney,Australia,2014,196,7,Air Cooled,1.343,Hyperscale
+MET_TOK_2022_0126,Meta,Tokyo,Japan,2022,79,74,Direct-to-Chip Liquid,1.268,Large
+GOO_MUM_2015_0127,Google Cloud,Mumbai,India,2015,118,0,Air Cooled,1.182,Large
+GOO_FRA_2016_0128,Google Cloud,Frankfurt,Germany,2016,194,25,Evaporative Water,1.536,Hyperscale
+GOO_TOK_2025_0129,Google Cloud,Tokyo,japan,2025,235,97,Direct-to-Chip Liquid,1.05,Hyperscale
+MET_TOK_2020_0130,Meta,Tokyo,Japan,2020,197,25,Air Cooled,1.158,Hyperscale
+EQU_CAL_2009_0131,Equinix,California,United States,2009,14,9,Direct-to-Chip Liquid,1.458,Standard
+MIC_FRA_2022_0132,Microsoft Azure,Frankfurt,Germany,2022,222,69,Evaporative Water,1.277,Hyperscale
+GOO_IOW_2017_0133,Google Cloud,Iowa,United States,2017,195,14,Air Cooled,1.3672589285714287,Hyperscale
+AMA_IOW_2019_0134,Amazon AWS,Iowa,United States,2019,143,56,Evaporative Water,1.444,Large
+DIG_SYD_2014_0135,Digital Realty,Sydney,Australia,2014,74,16,Evaporative Water,1.442,Large
+GOO_AMS_2021_0136,Google Cloud,Amsterdam,Netherlands,2021,79,41,Evaporative Water,1.281,Large
+EQU_AMS_2017_0137,Equinix,Amsterdam,Netherlands,2017,64,14,Evaporative Water,1.187,Large
+MET_MUM_2025_0138,Meta,Mumbai,India,2025,168,31,Evaporative Water,1.06,Hyperscale
+DIG_TEX_2015_0139,Digital Realty,Texas,United States,2015,19,12,Air Cooled,1.393,Standard
+GOO_SIN_2023_0140,Google Cloud,Singapore,Singapore,2023,270,79,Direct-to-Chip Liquid,1.184,Hyperscale
+MIC_CAL_2015_0141,Microsoft Azure,California,United States,2015,178,0,Air Cooled,1.418,Hyperscale
+MET_IOW_2020_0142,Meta,Iowa,United States,2020,188,40,Evaporative Water,1.352,Hyperscale
+AMA_VIR_2015_0143,Amazon AWS,Virginia,United States,2015,169,3,Air Cooled,1.474,Hyperscale
+MIC_CAL_2021_0144,Microsoft Azure,California,United States,2021,302,5,Evaporative Water,1.23,Hyperscale
+MIC_DUB_2020_0145,Microsoft Azure,Dublin,Ireland,2020,326,34,Direct-to-Chip Liquid,1.371,Hyperscale
+MET_FRA_2025_0146,Meta,Frankfurt,Germany,2025,20,38,Air Cooled,1.079,Standard
+MIC_SYD_2015_0147,Microsoft Azure,Sydney,Australia,2015,27,10,Evaporative Water,1.424,Standard
+AMA_TOK_2010_0148,Amazon AWS,Tokyo,Japan,2010,237,2,Air Cooled,1.592,Hyperscale
+EQU_VIR_2024_0149,Equinix,Virginia,United States,2024,60,69,Direct-to-Chip Liquid,1.303,Large
+MIC_IOW_2016_0150,Microsoft Azure,Iowa,United States,2016,77,13,Air Cooled,1.446,Large
+MET_SIN_2024_0151,Meta,Singapore,Singapore,2024,74,69,Direct-to-Chip Liquid,1.229,Large
+MET_VIR_2014_0152,Meta,Virginia,United States,2014,350,0,Air Cooled,1.426,Hyperscale
+AMA_TEX_2013_0153,Amazon AWS,Texas,United States,2013,112,25,Air Cooled,1.581,Large
+MIC_MUM_2018_0154,Microsoft Azure,Mumbai,india,2018,191,27,Air Cooled,1.511,Hyperscale
+AMA_DUB_2022_0155,Amazon AWS,Dublin,Ireland,2022,176,77,Direct-to-Chip Liquid,1.249,Hyperscale
+MET_CAL_2016_0156,Meta,California,United States,2016,29,0,Air Cooled,1.461,Standard
+MIC_TOK_2016_0157,Microsoft Azure,Tokyo,Japan,2016,275,5,Air Cooled,1.444,Hyperscale
+AMA_SAO_2022_0158,Amazon AWS,Sao Paulo,Brazil,2022,135,83,Direct-to-Chip Liquid,1.197,Large
+EQU_TOK_2016_0159,Equinix,Tokyo,Japan,2016,31,5,Air Cooled,1.34,Standard
+MIC_FRA_2016_0160,Microsoft Azure,Frankfurt,Germany,2016,91,19,Evaporative Water,1.275,Large
+AMA_MUM_2011_0161,Amazon AWS,Mumbai,India,2011,202,24,Air Cooled,1.4,Hyperscale
+GOO_SYD_2019_0162,Google Cloud,Sydney,Australia,2019,74,49,Evaporative Water,1.299,Large
+MET_IOW_2011_0163,Meta,Iowa,United States,2011,212,0,Evaporative Water,1.496,Hyperscale
+AMA_IOW_2019_0164,Amazon AWS,Iowa,United States,2019,94,7,Evaporative Water,1.424,Large
+GOO_SYD_2014_0165,Google Cloud,Sydney,Australia,2014,31,2,Air Cooled,1.428,Standard
+GOO_TEX_2017_0166,Google Cloud,Texas,United States,2017,164,14,Evaporative Water,1.471,Hyperscale
+MET_DUB_2012_0167,Meta,Dublin,Ireland,2012,60,11,Air Cooled,1.354,Large
+MET_AMS_2012_0168,Meta,Amsterdam,Netherlands,2012,240,0,Direct-to-Chip Liquid,1.403,Hyperscale
+MIC_TEX_2025_0169,Microsoft Azure,Texas,United States,2025,118,58,Evaporative Water,1.309,Large
+DIG_SAO_2011_0170,Digital Realty,Sao Paulo,Brazil,2011,76,17,Air Cooled,1.503,Large
+AMA_DUB_2011_0171,Amazon AWS,Dublin,Ireland,2011,148,25,Air Cooled,1.639,Large
+EQU_TEX_2016_0172,Equinix,Texas,United States,2016,36,2,Air Cooled,1.391,Standard
+MIC_TOK_2020_0173,Microsoft Azure,Tokyo,Japan,2020,160,25,Air Cooled,1.441,Hyperscale
+MIC_FRA_2016_0174,Microsoft Azure,Frankfurt,germany,2016,177,20,Air Cooled,1.380973214285714,Hyperscale
+DIG_TEX_2018_0175,Digital Realty,Texas,United States,2018,60,8,Air Cooled,1.169,Large
+GOO_MUM_2021_0176,Google Cloud,Mumbai,India,2021,185,32,Evaporative Water,1.452,Hyperscale
+MET_SYD_2022_0177,Meta,Sydney,Australia,2022,65,78,Evaporative Water,1.232,Large
+AMA_DUB_2015_0178,Amazon AWS,Dublin,Ireland,2015,211,7,Air Cooled,1.536,Hyperscale
+DIG_DUB_2019_0179,Digital Realty,Dublin,Ireland,2019,45,43,Evaporative Water,1.373,Standard
+AMA_TEX_2012_0180,Amazon AWS,Texas,United States,2012,237,21,Evaporative Water,1.414,Hyperscale
+GOO_VIR_2022_0181,Google Cloud,Virginia,United States,2022,121,56,Evaporative Water,1.355,Large
+AMA_SAO_2016_0182,Amazon AWS,Sao Paulo,Brazil,2016,153,12,Air Cooled,1.408,Hyperscale
+MET_SAO_2012_0183,Meta,Sao Paulo,brazil,2012,20,8,Evaporative Water,1.688,Standard
+AMA_CAL_2021_0184,Amazon AWS,California,United States,2021,112,45,Evaporative Water,1.144,Large
+AMA_DUB_2013_0185,Amazon AWS,Dublin,Ireland,2013,242,25,Evaporative Water,1.55,Hyperscale
+AMA_MUM_2018_0186,Amazon AWS,Mumbai,India,2018,258,49,Evaporative Water,1.339,Hyperscale
+MIC_TOK_2017_0187,Microsoft Azure,Tokyo,Japan,2017,148,3,Air Cooled,1.541,Large
+MET_SYD_2014_0188,Meta,Sydney,Australia,2014,217,0,Air Cooled,1.329,Hyperscale
+MIC_FRA_2017_0189,Microsoft Azure,Frankfurt,Germany,2017,170,25,Air Cooled,1.479,Hyperscale
+MET_DUB_2023_0190,Meta,Dublin,Ireland,2023,70,60,Direct-to-Chip Liquid,1.055,Large
+MIC_DUB_2018_0191,Microsoft Azure,Dublin,Ireland,2018,140,26,Evaporative Water,1.422,Large
+MIC_SAO_2020_0192,Microsoft Azure,Sao Paulo,Brazil,2020,194,52,Evaporative Water,1.287,Hyperscale
+GOO_ORE_2010_0193,Google Cloud,Oregon,United States,2010,161,8,Air Cooled,1.377,Hyperscale
+MIC_MUM_2018_0194,Microsoft Azure,Mumbai,India,2018,333,33,Air Cooled,1.292,Hyperscale
+AMA_AMS_2012_0195,Amazon AWS,Amsterdam,Netherlands,2012,93,0,Air Cooled,1.625,Large
+GOO_SAO_2014_0196,Google Cloud,Sao Paulo,Brazil,2014,102,25,Air Cooled,1.519,Large
+GOO_FRA_2018_0197,Google Cloud,Frankfurt,Germany,2018,252,59,Evaporative Water,1.409,Hyperscale
+GOO_IOW_2021_0198,Google Cloud,Iowa,United States,2021,150,43,Evaporative Water,1.284,Hyperscale
+GOO_ORE_2019_0199,Google Cloud,Oregon,United States,2019,159,41,Direct-to-Chip Liquid,1.292,Hyperscale
+AMA_ORE_2016_0200,Amazon AWS,Oregon,United States,2016,358,11,Evaporative Water,1.255,Hyperscale
+GOO_SYD_2015_0201,Google Cloud,Sydney,Australia,2015,199,6,Air Cooled,1.318,Hyperscale
+AMA_IOW_2017_0202,Amazon AWS,Iowa,United States,2017,213,0,Evaporative Water,1.3672589285714287,Hyperscale
+MET_TOK_2017_0203,Meta,Tokyo,Japan,2017,177,3,Air Cooled,1.579,Hyperscale
+AMA_SIN_2012_0204,Amazon AWS,Singapore,Singapore,2012,369,24,Air Cooled,1.374,Hyperscale
+GOO_SAO_2018_0205,Google Cloud,Sao Paulo,Brazil,2018,47,45,Direct-to-Chip Liquid,1.132,Standard
+MET_VIR_2023_0206,Meta,Virginia,United States,2023,188,76,Direct-to-Chip Liquid,1.444,Hyperscale
+MIC_IOW_2018_0207,Microsoft Azure,Iowa,United States,2018,134,55,Air Cooled,1.441,Large
+GOO_TOK_2013_0208,Google Cloud,Tokyo,Japan,2013,55,0,Air Cooled,1.396,Large
+GOO_VIR_2025_0209,Google Cloud,Virginia,United States,2025,28,56,Evaporative Water,1.132,Standard
+AMA_TEX_2016_0210,Amazon AWS,Texas,United States,2016,163,3,Air Cooled,1.554,Hyperscale
+GOO_SIN_2017_0211,Google Cloud,Singapore,Singapore,2017,113,8,Air Cooled,1.439,Large
+GOO_FRA_2020_0212,Google Cloud,Frankfurt,Germany,2020,130,54,Air Cooled,1.346,Large
+GOO_MUM_2014_0213,Google Cloud,Mumbai,India,2014,27,7,Air Cooled,1.476,Standard
+AMA_TOK_2021_0214,Amazon AWS,Tokyo,Japan,2021,97,33,Evaporative Water,1.265,Large
+AMA_FRA_2016_0215,Amazon AWS,Frankfurt,Germany,2016,109,15,Air Cooled,1.367,Large
+MIC_DUB_2019_0216,Microsoft Azure,Dublin,Ireland,2019,195,37,Evaporative Water,1.195,Hyperscale
+AMA_SAO_2025_0217,Amazon AWS,Sao Paulo,Brazil,2025,164,79,Evaporative Water,1.05,Hyperscale
+AMA_CAL_2010_0218,Amazon AWS,California,United States,2010,96,25,Air Cooled,1.724,Large
+AMA_SAO_2009_0219,Amazon AWS,Sao Paulo,Brazil,2009,20,1,Air Cooled,1.502,Standard
+GOO_TOK_2017_0220,Google Cloud,Tokyo,Japan,2017,168,8,Air Cooled,1.373,Hyperscale
+MIC_AMS_2014_0221,Microsoft Azure,Amsterdam,Netherlands,2014,99,1,Air Cooled,1.425,Large
+AMA_SIN_2021_0222,Amazon AWS,Singapore,Singapore,2021,215,30,Air Cooled,1.467,Hyperscale
+AMA_SYD_2022_0223,Amazon AWS,Sydney,Australia,2022,288,72,Immersion Cooling,1.276,Hyperscale
+MIC_SIN_2016_0224,Microsoft Azure,Singapore,Singapore,2016,128,15,Direct-to-Chip Liquid,1.353,Large
+GOO_ORE_2013_0225,Google Cloud,Oregon,United States,2013,197,2,Air Cooled,1.347,Hyperscale
+AMA_DUB_2022_0226,Amazon AWS,Dublin,Ireland,2022,137,68,Immersion Cooling,1.267375,Large
+GOO_AMS_2014_0227,Google Cloud,Amsterdam,Netherlands,2014,20,18,Air Cooled,1.485,Standard
+MIC_SAO_2016_0228,Microsoft Azure,Sao Paulo,Brazil,2016,96,1,Air Cooled,1.341,Large
+AMA_TEX_2017_0229,Amazon AWS,Texas,United States,2017,238,6,Air Cooled,1.325,Hyperscale
+DIG_TOK_2020_0230,Digital Realty,Tokyo,Japan,2020,49,19,Direct-to-Chip Liquid,1.244,Standard
+MIC_SYD_2019_0231,Microsoft Azure,Sydney,Australia,2019,297,20,Evaporative Water,1.297,Hyperscale
+MIC_FRA_2015_0232,Microsoft Azure,Frankfurt,Germany,2015,288,25,Air Cooled,1.51,Hyperscale
+EQU_SYD_2015_0233,Equinix,Sydney,Australia,2015,62,8,Evaporative Water,1.355,Large
+AMA_IOW_2015_0234,Amazon AWS,Iowa,United States,2015,146,17,Air Cooled,1.468,Large
+AMA_CAL_2023_0235,Amazon AWS,California,United States,2023,110,72,Evaporative Water,1.323,Large
+MIC_MUM_2015_0236,Microsoft Azure,Mumbai,india,2015,169,17,Evaporative Water,1.443,Hyperscale
+MET_CAL_2016_0237,Meta,California,United States,2016,56,25,Air Cooled,1.268,Large
+GOO_CAL_2021_0238,Google Cloud,California,United States,2021,126,42,Evaporative Water,1.315,Large
+GOO_AMS_2020_0239,Google Cloud,Amsterdam,Netherlands,2020,20,55,Evaporative Water,1.552,Standard
+AMA_SAO_2016_0240,Amazon AWS,Sao Paulo,Brazil,2016,20,5,Evaporative Water,1.543,Standard
+GOO_AMS_2020_0241,Google Cloud,Amsterdam,Netherlands,2020,270,26,Evaporative Water,1.464,Hyperscale
+DIG_ORE_2019_0242,Digital Realty,Oregon,United States,2019,30,6,Direct-to-Chip Liquid,1.263,Standard
+MET_SIN_2012_0243,Meta,Singapore,Singapore,2012,307,21,Evaporative Water,1.315,Hyperscale
+AMA_CAL_2025_0244,Amazon AWS,California,United States,2025,144,62,Evaporative Water,1.233,Large
+EQU_ORE_2021_0245,Equinix,Oregon,United States,2021,49,49,Direct-to-Chip Liquid,1.306,Standard
+MIC_DUB_2015_0246,Microsoft Azure,Dublin,Ireland,2015,77,14,Air Cooled,1.3934302325581394,Large
+EQU_MUM_2017_0247,Equinix,Mumbai,India,2017,17,6,Air Cooled,1.299,Standard
+MET_MUM_2018_0248,Meta,Mumbai,India,2018,236,18,Direct-to-Chip Liquid,1.293,Hyperscale
+EQU_VIR_2020_0249,Equinix,Virginia,United States,2020,42,15,Air Cooled,1.335,Standard
+MIC_TEX_2024_0250,Microsoft Azure,Texas,United States,2024,218,97,Direct-to-Chip Liquid,1.067,Hyperscale
+GOO_TOK_2023_0251,Google Cloud,Tokyo,Japan,2023,343,81,Direct-to-Chip Liquid,1.206,Hyperscale
+AMA_SIN_2020_0252,Amazon AWS,Singapore,Singapore,2020,187,59,Evaporative Water,1.3055652173913044,Hyperscale
+MIC_TOK_2015_0253,Microsoft Azure,Tokyo,Japan,2015,52,9,Air Cooled,1.378,Large
+AMA_SIN_2020_0254,Amazon AWS,Singapore,Singapore,2020,323,53,Evaporative Water,1.3055652173913044,Hyperscale
+MET_VIR_2011_0255,Meta,Virginia,United States,2011,133,20,Air Cooled,1.50340625,Large
+MET_DUB_2017_0256,Meta,Dublin,Ireland,2017,20,20,Air Cooled,1.411,Standard
+MET_CAL_2014_0257,Meta,California,United States,2014,112,9,Air Cooled,1.283,Large
+MET_AMS_2012_0258,Meta,Amsterdam,Netherlands,2012,178,6,Direct-to-Chip Liquid,1.426,Hyperscale
+GOO_AMS_2017_0259,Google Cloud,Amsterdam,Netherlands,2017,232,15,Air Cooled,1.398,Hyperscale
+MIC_IOW_2021_0260,Microsoft Azure,Iowa,United States,2021,177,41,Evaporative Water,1.59,Hyperscale
+MET_ORE_2025_0261,Meta,Oregon,United States,2025,120,78,Evaporative Water,1.192,Large
+AMA_SAO_2024_0262,Amazon AWS,Sao Paulo,Brazil,2024,240,100,Direct-to-Chip Liquid,1.28,Hyperscale
+MIC_CAL_2012_0263,Microsoft Azure,California,United States,2012,139,0,Air Cooled,1.585,Large
+MET_MUM_2020_0264,Meta,Mumbai,India,2020,26,19,Evaporative Water,1.466,Standard
+AMA_TEX_2012_0265,Amazon AWS,Texas,United States,2012,180,24,Air Cooled,1.199,Hyperscale
+MIC_MUM_2017_0266,Microsoft Azure,Mumbai,India,2017,82,2,Air Cooled,1.34,Large
+GOO_FRA_2024_0267,Google Cloud,Frankfurt,Germany,2024,172,100,Evaporative Water,1.151,Hyperscale
+GOO_DUB_2012_0268,Google Cloud,Dublin,Ireland,2012,126,20,Air Cooled,1.458056603773585,Large
+MET_SYD_2018_0269,Meta,Sydney,australia,2018,273,28,Evaporative Water,1.178,Hyperscale
+MET_DUB_2014_0270,Meta,Dublin,Ireland,2014,229,2,Air Cooled,1.405,Hyperscale
+MIC_DUB_2015_0271,Microsoft Azure,Dublin,Ireland,2015,183,0,Air Cooled,1.311,Hyperscale
+MIC_SYD_2025_0272,Microsoft Azure,Sydney,Australia,2025,28,44,Evaporative Water,1.07,Standard
+MIC_SIN_2011_0273,Microsoft Azure,Singapore,Singapore,2011,164,22,Air Cooled,1.629,Hyperscale
+GOO_MUM_2016_0274,Google Cloud,Mumbai,India,2016,237,25,Evaporative Water,1.397,Hyperscale
+MIC_MUM_2015_0275,Microsoft Azure,Mumbai,India,2015,200,10,Air Cooled,1.276,Hyperscale
+MIC_DUB_2018_0276,Microsoft Azure,Dublin,Ireland,2018,279,16,Evaporative Water,1.252,Hyperscale
+AMA_MUM_2025_0277,Amazon AWS,Mumbai,India,2025,182,65,Immersion Cooling,1.207,Hyperscale
+AMA_ORE_2018_0278,Amazon AWS,Oregon,United States,2018,20,5,Evaporative Water,1.383,Standard
+GOO_AMS_2015_0279,Google Cloud,Amsterdam,Netherlands,2015,85,15,Evaporative Water,1.46,Large
+MIC_MUM_2016_0280,Microsoft Azure,Mumbai,India,2016,147,4,Evaporative Water,1.37,Large
+AMA_DUB_2020_0281,Amazon AWS,Dublin,Ireland,2020,190,22,Evaporative Water,1.337,Hyperscale
+MET_SAO_2018_0282,Meta,Sao Paulo,Brazil,2018,210,26,Evaporative Water,1.358,Hyperscale
+MIC_VIR_2021_0283,Microsoft Azure,Virginia,United States,2021,114,57,Direct-to-Chip Liquid,1.181,Large
+EQU_ORE_2011_0284,Equinix,Oregon,United States,2011,44,19,Air Cooled,1.447,Standard
+AMA_SYD_2015_0285,Amazon AWS,Sydney,Australia,2015,205,6,Direct-to-Chip Liquid,1.522,Hyperscale
+AMA_SYD_2017_0286,Amazon AWS,Sydney,Australia,2017,118,17,Air Cooled,1.439,Large
+GOO_TOK_2012_0287,Google Cloud,Tokyo,Japan,2012,243,1,Air Cooled,1.326,Hyperscale
+AMA_SYD_2023_0288,Amazon AWS,Sydney,Australia,2023,235,100,Direct-to-Chip Liquid,1.05,Hyperscale
+GOO_VIR_2025_0289,Google Cloud,Virginia,United States,2025,291,92,Direct-to-Chip Liquid,1.05,Hyperscale
+MIC_SAO_2018_0290,Microsoft Azure,Sao Paulo,Brazil,2018,66,26,Direct-to-Chip Liquid,1.385,Large
+AMA_FRA_2018_0291,Amazon AWS,Frankfurt,Germany,2018,154,54,Evaporative Water,1.402,Hyperscale
+GOO_MUM_2018_0292,Google Cloud,Mumbai,India,2018,20,12,Immersion Cooling,1.325,Standard
+MIC_TEX_2022_0293,Microsoft Azure,Texas,United States,2022,228,26,Evaporative Water,1.345,Hyperscale
+AMA_IOW_2023_0294,Amazon AWS,Iowa,United States,2023,137,71,Immersion Cooling,1.332,Large
+EQU_DUB_2013_0295,Equinix,Dublin,Ireland,2013,11,25,Evaporative Water,1.43,Standard
+DIG_AMS_2016_0296,Digital Realty,Amsterdam,Netherlands,2016,86,5,Air Cooled,1.426,Large
+MIC_ORE_2020_0297,Microsoft Azure,Oregon,United States,2020,228,33,Air Cooled,1.546,Hyperscale
+MET_SYD_2019_0298,Meta,Sydney,Unknown,2019,144,22,Evaporative Water,1.352,Large
+AMA_IOW_2018_0299,Amazon AWS,Iowa,United States,2018,191,49,Evaporative Water,1.286,Hyperscale
+GOO_ORE_2021_0300,Google Cloud,Oregon,United States,2021,137,20,Evaporative Water,1.198,Large
+MIC_TOK_2016_0301,Microsoft Azure,Tokyo,Japan,2016,155,21,Air Cooled,1.28,Hyperscale
+MET_DUB_2025_0302,Meta,Dublin,Ireland,2025,242,78,Direct-to-Chip Liquid,1.258,Hyperscale
+MIC_VIR_2016_0303,Microsoft Azure,Virginia,United States,2016,171,0,Air Cooled,1.398,Hyperscale
+MIC_TOK_2011_0304,Microsoft Azure,Tokyo,Japan,2011,76,13,Evaporative Water,1.587,Large
+MIC_TOK_2019_0305,Microsoft Azure,Tokyo,Japan,2019,204,43,Evaporative Water,1.379,Hyperscale
+MIC_MUM_2017_0306,Microsoft Azure,Mumbai,Unknown,2017,103,0,Air Cooled,1.315,Large
+AMA_FRA_2017_0307,Amazon AWS,Frankfurt,Germany,2017,161,20,Air Cooled,1.229,Hyperscale
+AMA_AMS_2013_0308,Amazon AWS,Amsterdam,Netherlands,2013,54,2,Air Cooled,1.496,Large
+AMA_VIR_2020_0309,Amazon AWS,Virginia,United States,2020,26,9,Evaporative Water,1.367,Standard
+MET_CAL_2015_0310,Meta,California,United States,2015,116,25,Evaporative Water,1.571,Large
+AMA_AMS_2019_0311,Amazon AWS,Amsterdam,Netherlands,2019,128,48,Evaporative Water,1.388,Large
+MET_AMS_2015_0312,Meta,Amsterdam,Netherlands,2015,287,18,Evaporative Water,1.513,Hyperscale
+AMA_DUB_2011_0313,Amazon AWS,Dublin,Ireland,2011,25,0,Direct-to-Chip Liquid,1.596,Standard
+MIC_SIN_2022_0314,Microsoft Azure,Singapore,Singapore,2022,166,65,Evaporative Water,1.208,Hyperscale
+GOO_MUM_2012_0315,Google Cloud,Mumbai,India,2012,219,18,Air Cooled,1.629,Hyperscale
+AMA_IOW_2017_0316,Amazon AWS,Iowa,United States,2017,43,0,Evaporative Water,1.21,Standard
+MIC_SIN_2017_0317,Microsoft Azure,Singapore,Singapore,2017,20,11,Evaporative Water,1.447,Standard
+GOO_FRA_2023_0318,Google Cloud,Frankfurt,Germany,2023,54,83,Immersion Cooling,1.207,Large
+AMA_VIR_2022_0319,Amazon AWS,Virginia,United States,2022,180,63,Evaporative Water,1.258,Hyperscale
+AMA_AMS_2014_0320,Amazon AWS,Amsterdam,Netherlands,2014,211,7,Air Cooled,1.507,Hyperscale
+AMA_TEX_2021_0321,Amazon AWS,Texas,United States,2021,118,12,Evaporative Water,1.256,Large
+MIC_SYD_2019_0322,Microsoft Azure,Sydney,Australia,2019,347,35,Air Cooled,1.336,Hyperscale
+GOO_CAL_2016_0323,Google Cloud,California,United States,2016,26,5,Air Cooled,1.264,Standard
+EQU_AMS_2013_0324,Equinix,Amsterdam,Netherlands,2013,40,2,Air Cooled,1.571,Standard
+GOO_SAO_2018_0325,Google Cloud,Sao Paulo,Brazil,2018,262,28,Air Cooled,1.377,Hyperscale
+EQU_CAL_2010_0326,Equinix,California,United States,2010,40,22,Air Cooled,1.4717272727272728,Standard
+MET_SAO_2025_0327,Meta,Sao Paulo,Brazil,2025,310,83,Direct-to-Chip Liquid,1.237,Hyperscale
+MET_VIR_2015_0328,Meta,Virginia,United States,2015,108,14,Air Cooled,1.458,Large
+MIC_SYD_2016_0329,Microsoft Azure,Sydney,Australia,2016,193,4,Air Cooled,1.389,Hyperscale
+MIC_ORE_2018_0330,Microsoft Azure,Oregon,United States,2018,132,40,Direct-to-Chip Liquid,1.143,Large
+GOO_VIR_2013_0331,Google Cloud,Virginia,United States,2013,140,13,Evaporative Water,1.469,Large
+AMA_SYD_2020_0332,Amazon AWS,Sydney,Australia,2020,65,44,Direct-to-Chip Liquid,1.294,Large
+GOO_CAL_2011_0333,Google Cloud,California,United States,2011,72,10,Direct-to-Chip Liquid,1.50340625,Large
+MIC_AMS_2020_0334,Microsoft Azure,Amsterdam,Netherlands,2020,250,23,Evaporative Water,1.134,Hyperscale
+AMA_SYD_2022_0335,Amazon AWS,Sydney,Australia,2022,101,29,Direct-to-Chip Liquid,1.204,Large
+AMA_SYD_2024_0336,Amazon AWS,Sydney,Australia,2024,220,68,Direct-to-Chip Liquid,1.07,Hyperscale
+AMA_IOW_2013_0337,Amazon AWS,Iowa,United States,2013,105,7,Air Cooled,1.363,Large
+MIC_TOK_2021_0338,Microsoft Azure,Tokyo,Japan,2021,200,52,Evaporative Water,1.153,Hyperscale
+MET_ORE_2015_0339,Meta,Oregon,United States,2015,67,2,Evaporative Water,1.449,Large
+MIC_SIN_2019_0340,Microsoft Azure,Singapore,Singapore,2019,256,40,Evaporative Water,1.277,Hyperscale
+MIC_SIN_2012_0341,Microsoft Azure,Singapore,Singapore,2012,365,23,Air Cooled,1.266,Hyperscale
+MIC_SYD_2016_0342,Microsoft Azure,Sydney,Australia,2016,66,0,Air Cooled,1.357,Large
+MET_AMS_2019_0343,Meta,Amsterdam,Netherlands,2019,196,50,Air Cooled,1.221,Hyperscale
+GOO_IOW_2011_0344,Google Cloud,Iowa,United States,2011,236,20,Evaporative Water,1.522,Hyperscale
+GOO_VIR_2017_0345,Google Cloud,Virginia,United States,2017,45,5,Air Cooled,1.442,Standard
+MET_AMS_2011_0346,Meta,Amsterdam,Netherlands,2011,194,9,Air Cooled,1.441,Hyperscale
+DIG_SYD_2022_0347,Digital Realty,Sydney,Australia,2022,46,80,Immersion Cooling,1.361,Standard
+EQU_FRA_2019_0348,Equinix,Frankfurt,Germany,2019,43,28,Evaporative Water,1.367,Standard
+GOO_DUB_2019_0349,Google Cloud,Dublin,Ireland,2019,93,27,Air Cooled,1.401,Large
+DIG_VIR_2017_0350,Digital Realty,Virginia,United States,2017,5,23,Evaporative Water,1.265,Standard
+MIC_FRA_2019_0351,Microsoft Azure,Frankfurt,Germany,2019,139,26,Direct-to-Chip Liquid,1.421,Large
+EQU_MUM_2015_0352,Equinix,Mumbai,india,2015,51,9,Evaporative Water,1.509,Large
+GOO_VIR_2008_0353,Google Cloud,Virginia,United States,2008,148,11,Air Cooled,1.564,Large
+GOO_VIR_2015_0354,Google Cloud,Virginia,United States,2015,20,21,Air Cooled,1.524,Standard
+MIC_SAO_2014_0355,Microsoft Azure,Sao Paulo,Brazil,2014,152,8,Evaporative Water,1.515,Hyperscale
+MET_MUM_2015_0356,Meta,Mumbai,India,2015,140,17,Air Cooled,1.379,Large
+AMA_CAL_2017_0357,Amazon AWS,California,United States,2017,204,15,Direct-to-Chip Liquid,1.329,Hyperscale
+GOO_TOK_2017_0358,Google Cloud,Tokyo,Japan,2017,68,0,Evaporative Water,1.356,Large
+MIC_DUB_2018_0359,Microsoft Azure,Dublin,Ireland,2018,179,42,Direct-to-Chip Liquid,1.233,Hyperscale
+MIC_CAL_2014_0360,Microsoft Azure,California,United States,2014,20,12,Air Cooled,1.506,Standard
+AMA_MUM_2013_0361,Amazon AWS,Mumbai,India,2013,136,6,Air Cooled,1.472,Large
+MIC_SIN_2017_0362,Microsoft Azure,Singapore,Singapore,2017,240,25,Air Cooled,1.239,Hyperscale
+EQU_DUB_2016_0363,Equinix,Dublin,Ireland,2016,53,15,Air Cooled,1.593,Large
+GOO_TOK_2019_0364,Google Cloud,Tokyo,Japan,2019,86,53,Air Cooled,1.432,Large
+GOO_ORE_2019_0365,Google Cloud,Oregon,United States,2019,175,5,Evaporative Water,1.266,Hyperscale
+AMA_ORE_2015_0366,Amazon AWS,Oregon,United States,2015,192,12,Direct-to-Chip Liquid,1.399,Hyperscale
+AMA_TOK_2016_0367,Amazon AWS,Tokyo,Japan,2016,110,0,Evaporative Water,1.528,Large
+AMA_AMS_2020_0368,Amazon AWS,Amsterdam,Netherlands,2020,81,51,Evaporative Water,1.316,Large
+MIC_TEX_2017_0369,Microsoft Azure,Texas,United States,2017,53,20,Evaporative Water,1.381,Large
+AMA_DUB_2020_0370,Amazon AWS,Dublin,Ireland,2020,198,41,Evaporative Water,1.264,Hyperscale
+AMA_TOK_2018_0371,Amazon AWS,Tokyo,Japan,2018,236,27,Evaporative Water,1.211,Hyperscale
+MIC_ORE_2021_0372,Microsoft Azure,Oregon,United States,2021,225,38,Evaporative Water,1.434,Hyperscale
+MET_MUM_2020_0373,Meta,Mumbai,India,2020,156,5,Evaporative Water,1.42,Hyperscale
+AMA_MUM_2019_0374,Amazon AWS,Mumbai,India,2019,239,34,Evaporative Water,1.397,Hyperscale
+DIG_SIN_2020_0375,Digital Realty,Singapore,Singapore,2020,5,37,Air Cooled,1.323,Standard
+MET_FRA_2016_0376,Meta,Frankfurt,Germany,2016,199,0,Air Cooled,1.501,Hyperscale
+AMA_AMS_2016_0377,Amazon AWS,Amsterdam,Netherlands,2016,117,6,Air Cooled,1.341,Large
+MIC_AMS_2012_0378,Microsoft Azure,Amsterdam,Netherlands,2012,236,0,Air Cooled,1.458056603773585,Hyperscale
+GOO_SIN_2015_0379,Google Cloud,Singapore,singapore,2015,70,13,Direct-to-Chip Liquid,1.473,Large
+GOO_SAO_2017_0380,Google Cloud,Sao Paulo,Brazil,2017,274,3,Evaporative Water,1.521,Hyperscale
+AMA_TOK_2014_0381,Amazon AWS,Tokyo,Japan,2014,217,13,Air Cooled,1.527,Hyperscale
+MIC_FRA_2018_0382,Microsoft Azure,Frankfurt,Germany,2018,125,49,Evaporative Water,1.25,Large
+MET_TEX_2014_0383,Meta,Texas,United States,2014,136,17,Air Cooled,1.362,Large
+MIC_SIN_2020_0384,Microsoft Azure,Singapore,Singapore,2020,234,40,Evaporative Water,1.209,Hyperscale
+MET_SYD_2019_0385,Meta,Sydney,Australia,2019,148,13,Evaporative Water,1.187,Large
+MIC_VIR_2021_0386,Microsoft Azure,Virginia,United States,2021,153,43,Air Cooled,1.316,Hyperscale
+AMA_TEX_2020_0387,Amazon AWS,Texas,United States,2020,283,17,Evaporative Water,1.469,Hyperscale
+AMA_DUB_2019_0388,Amazon AWS,Dublin,Ireland,2019,192,32,Air Cooled,1.279,Hyperscale
+MET_TEX_2015_0389,Meta,Texas,United States,2015,86,0,Air Cooled,1.129,Large
+GOO_SIN_2018_0390,Google Cloud,Singapore,Singapore,2018,161,34,Evaporative Water,1.291,Hyperscale
+GOO_SIN_2016_0391,Google Cloud,Singapore,Singapore,2016,215,0,Evaporative Water,1.375,Hyperscale
+AMA_TOK_2014_0392,Amazon AWS,Tokyo,Japan,2014,20,0,Evaporative Water,1.313,Standard
+AMA_IOW_2016_0393,Amazon AWS,Iowa,United States,2016,136,17,Evaporative Water,1.397,Large
+MIC_CAL_2018_0394,Microsoft Azure,California,United States,2018,212,22,Evaporative Water,1.145,Hyperscale
+MET_MUM_2022_0395,Meta,Mumbai,India,2022,131,55,Evaporative Water,1.245,Large
+AMA_FRA_2019_0396,Amazon AWS,Frankfurt,Unknown,2019,119,55,Evaporative Water,1.436,Large
+MIC_IOW_2020_0397,Microsoft Azure,Iowa,United States,2020,149,48,Air Cooled,1.341,Large
+MIC_TEX_2019_0398,Microsoft Azure,Texas,United States,2019,64,19,Air Cooled,1.264,Large
+MIC_FRA_2019_0399,Microsoft Azure,Frankfurt,Germany,2019,136,28,Air Cooled,1.238,Large
+GOO_ORE_2019_0400,Google Cloud,Oregon,United States,2019,20,58,Evaporative Water,1.421,Standard
+MIC_AMS_2018_0401,Microsoft Azure,Amsterdam,Netherlands,2018,194,51,Air Cooled,1.206,Hyperscale
+MET_DUB_2017_0402,Meta,Dublin,Ireland,2017,79,21,Air Cooled,1.4,Large
+AMA_TEX_2017_0403,Amazon AWS,Texas,united states,2017,239,8,Air Cooled,1.348,Hyperscale
+MET_FRA_2014_0404,Meta,Frankfurt,Germany,2014,167,20,Evaporative Water,1.39,Hyperscale
+MET_TOK_2018_0405,Meta,Tokyo,Japan,2018,266,29,Air Cooled,1.339,Hyperscale
+MIC_FRA_2021_0406,Microsoft Azure,Frankfurt,Germany,2021,171,24,Immersion Cooling,1.438,Hyperscale
+GOO_ORE_2019_0407,Google Cloud,Oregon,United States,2019,94,17,Evaporative Water,1.27,Large
+EQU_ORE_2018_0408,Equinix,Oregon,United States,2018,71,39,Evaporative Water,1.377,Large
+DIG_AMS_2014_0409,Digital Realty,Amsterdam,Netherlands,2014,21,11,Evaporative Water,1.292,Standard
+AMA_SAO_2023_0410,Amazon AWS,Sao Paulo,Brazil,2023,20,60,Direct-to-Chip Liquid,1.16,Standard
+AMA_CAL_2014_0411,Amazon AWS,California,United States,2014,128,7,Evaporative Water,1.284,Large
+MIC_FRA_2023_0412,Microsoft Azure,Frankfurt,Germany,2023,60,55,Direct-to-Chip Liquid,1.146,Large
+AMA_DUB_2013_0413,Amazon AWS,Dublin,Ireland,2013,226,15,Evaporative Water,1.445,Hyperscale
+AMA_ORE_2025_0414,Amazon AWS,Oregon,United States,2025,60,33,Direct-to-Chip Liquid,1.238,Large
+DIG_SYD_2021_0415,Digital Realty,Sydney,Australia,2021,14,25,Evaporative Water,1.283,Standard
+AMA_TEX_2016_0416,Amazon AWS,Texas,United States,2016,86,10,Air Cooled,1.516,Large
+GOO_AMS_2015_0417,Google Cloud,Amsterdam,Netherlands,2015,241,19,Air Cooled,1.314,Hyperscale
+AMA_VIR_2017_0418,Amazon AWS,Virginia,United States,2017,100,13,Air Cooled,1.397,Large
+MET_MUM_2019_0419,Meta,Mumbai,India,2019,194,18,Air Cooled,1.27,Hyperscale
+MIC_AMS_2019_0420,Microsoft Azure,Amsterdam,Netherlands,2019,69,28,Air Cooled,1.194,Large
+AMA_MUM_2019_0421,Amazon AWS,Mumbai,India,2019,82,40,Air Cooled,1.209,Large
+AMA_MUM_2018_0422,Amazon AWS,Mumbai,India,2018,162,31,Air Cooled,1.178,Hyperscale
+DIG_ORE_2015_0423,Digital Realty,Oregon,United States,2015,48,25,Evaporative Water,1.425,Standard
+MIC_MUM_2019_0424,Microsoft Azure,Mumbai,India,2019,20,11,Evaporative Water,1.514,Standard
+GOO_ORE_2021_0425,Google Cloud,Oregon,United States,2021,203,39,Air Cooled,1.232,Hyperscale
+MET_SIN_2016_0426,Meta,Singapore,Singapore,2016,69,3,Air Cooled,1.427,Large
+MET_SIN_2017_0427,Meta,Singapore,Singapore,2017,184,4,Direct-to-Chip Liquid,1.326,Hyperscale
+AMA_DUB_2015_0428,Amazon AWS,Dublin,Ireland,2015,265,8,Evaporative Water,1.35,Hyperscale
+AMA_TOK_2019_0429,Amazon AWS,Tokyo,Japan,2019,102,33,Evaporative Water,1.388,Large
+AMA_DUB_2021_0430,Amazon AWS,Dublin,Ireland,2021,35,35,Evaporative Water,1.124,Standard
+MIC_CAL_2015_0431,Microsoft Azure,California,United States,2015,68,0,Air Cooled,1.376,Large
+AMA_CAL_2017_0432,Amazon AWS,California,United States,2017,125,24,Air Cooled,1.355,Large
+AMA_DUB_2019_0433,Amazon AWS,Dublin,Ireland,2019,189,19,Immersion Cooling,1.404,Hyperscale
+GOO_SYD_2018_0434,Google Cloud,Sydney,Australia,2018,225,32,Evaporative Water,1.544,Hyperscale
+MIC_TEX_2025_0435,Microsoft Azure,Texas,United States,2025,129,80,Direct-to-Chip Liquid,1.2045714285714286,Large
+AMA_IOW_2011_0436,Amazon AWS,Iowa,United States,2011,79,15,Air Cooled,1.555,Large
+MIC_TEX_2015_0437,Microsoft Azure,Texas,United States,2015,48,11,Air Cooled,1.28,Standard
+MIC_SAO_2022_0438,Microsoft Azure,Sao Paulo,Brazil,2022,20,72,Air Cooled,1.204,Standard
+AMA_SYD_2021_0439,Amazon AWS,Sydney,Australia,2021,218,19,Evaporative Water,1.466,Hyperscale
+MIC_TEX_2014_0440,Microsoft Azure,Texas,United States,2014,143,2,Air Cooled,1.592,Large
+MET_TOK_2015_0441,Meta,Tokyo,Japan,2015,169,10,Air Cooled,1.348,Hyperscale
+GOO_SAO_2017_0442,Google Cloud,Sao Paulo,Brazil,2017,79,18,Air Cooled,1.321,Large
+AMA_SIN_2016_0443,Amazon AWS,Singapore,Singapore,2016,200,6,Air Cooled,1.372,Hyperscale
+DIG_SIN_2020_0444,Digital Realty,Singapore,Singapore,2020,47,47,Immersion Cooling,1.219,Standard
+MET_VIR_2020_0445,Meta,Virginia,United States,2020,20,19,Immersion Cooling,1.279,Standard
+AMA_MUM_2021_0446,Amazon AWS,Mumbai,India,2021,166,26,Evaporative Water,1.361,Hyperscale
+AMA_SYD_2017_0447,Amazon AWS,Sydney,Australia,2017,20,0,Air Cooled,1.219,Standard
+MET_TEX_2015_0448,Meta,Texas,United States,2015,20,25,Air Cooled,1.271,Standard
+MIC_AMS_2021_0449,Microsoft Azure,Amsterdam,netherlands,2021,173,60,Evaporative Water,1.31,Hyperscale
+GOO_MUM_2016_0450,Google Cloud,Mumbai,India,2016,124,0,Direct-to-Chip Liquid,1.235,Large
+MET_FRA_2015_0451,Meta,Frankfurt,Germany,2015,103,8,Air Cooled,1.483,Large
+MET_DUB_2021_0452,Meta,Dublin,Ireland,2021,156,21,Evaporative Water,1.384,Hyperscale
+MET_SAO_2016_0453,Meta,Sao Paulo,Brazil,2016,159,10,Air Cooled,1.351,Hyperscale
+AMA_CAL_2021_0454,Amazon AWS,California,United States,2021,60,28,Evaporative Water,1.243,Large
+AMA_MUM_2020_0455,Amazon AWS,Mumbai,India,2020,216,35,Direct-to-Chip Liquid,1.182,Hyperscale
+MET_TEX_2013_0456,Meta,Texas,United States,2013,183,20,Air Cooled,1.509,Hyperscale
+AMA_FRA_2016_0457,Amazon AWS,Frankfurt,Germany,2016,197,15,Air Cooled,1.488,Hyperscale
+AMA_TEX_2015_0458,Amazon AWS,Texas,United States,2015,325,12,Air Cooled,1.513,Hyperscale
+GOO_VIR_2017_0459,Google Cloud,Virginia,United States,2017,85,18,Air Cooled,1.473,Large
+GOO_AMS_2025_0460,Google Cloud,Amsterdam,Netherlands,2025,174,48,Evaporative Water,1.281,Hyperscale
+MIC_IOW_2018_0461,Microsoft Azure,Iowa,United States,2018,124,60,Air Cooled,1.31,Large
+DIG_CAL_2023_0462,Digital Realty,California,United States,2023,42,85,Evaporative Water,1.368,Standard
+MIC_ORE_2019_0463,Microsoft Azure,Oregon,United States,2019,141,58,Evaporative Water,1.236,Large
+MET_TEX_2021_0464,Meta,Texas,United States,2021,199,27,Direct-to-Chip Liquid,1.223,Hyperscale
+MIC_FRA_2023_0465,Microsoft Azure,Frankfurt,Germany,2023,98,67,Evaporative Water,1.223,Large
+GOO_TOK_2016_0466,Google Cloud,Tokyo,Japan,2016,85,20,Evaporative Water,1.380973214285714,Large
+MET_IOW_2019_0467,Meta,Iowa,United States,2019,43,45,Air Cooled,1.264,Standard
+GOO_SAO_2025_0468,Google Cloud,Sao Paulo,Brazil,2025,168,42,Immersion Cooling,1.164,Hyperscale
+MIC_TOK_2016_0469,Microsoft Azure,Tokyo,Unknown,2016,20,9,Air Cooled,1.438,Standard
+MIC_FRA_2012_0470,Microsoft Azure,Frankfurt,Germany,2012,160,10,Evaporative Water,1.42,Hyperscale
+MET_SAO_2018_0471,Meta,Sao Paulo,Unknown,2018,110,5,Air Cooled,1.467,Large
+EQU_SAO_2014_0472,Equinix,Sao Paulo,Brazil,2014,63,12,Air Cooled,1.431,Large
+MIC_FRA_2019_0473,Microsoft Azure,Frankfurt,Germany,2019,161,47,Air Cooled,1.226,Hyperscale
+MIC_SIN_2013_0474,Microsoft Azure,Singapore,Singapore,2013,137,10,Evaporative Water,1.429,Large
+GOO_SAO_2017_0475,Google Cloud,Sao Paulo,Brazil,2017,78,17,Evaporative Water,1.199,Large
+GOO_ORE_2017_0476,Google Cloud,Oregon,United States,2017,145,0,Air Cooled,1.365,Large
+GOO_IOW_2012_0477,Google Cloud,Iowa,United States,2012,52,0,Air Cooled,1.458056603773585,Large
+AMA_VIR_2018_0478,Amazon AWS,Virginia,United States,2018,87,32,Air Cooled,1.36,Large
+GOO_CAL_2017_0479,Google Cloud,California,United States,2017,159,13,Air Cooled,1.233,Hyperscale
+AMA_VIR_2020_0480,Amazon AWS,Virginia,United States,2020,112,22,Evaporative Water,1.406,Large
+DIG_SYD_2014_0481,Digital Realty,Sydney,Australia,2014,41,15,Air Cooled,1.623,Standard
+GOO_DUB_2020_0482,Google Cloud,Dublin,Ireland,2020,163,22,Air Cooled,1.176,Hyperscale
+AMA_MUM_2019_0483,Amazon AWS,Mumbai,india,2019,97,24,Evaporative Water,1.383,Large
+AMA_AMS_2014_0484,Amazon AWS,Amsterdam,Netherlands,2014,99,20,Air Cooled,1.527,Large
+AMA_SAO_2024_0485,Amazon AWS,Sao Paulo,Brazil,2024,143,64,Immersion Cooling,1.228,Large
+MIC_MUM_2020_0486,Microsoft Azure,Mumbai,India,2020,68,34,Evaporative Water,1.326,Large
+GOO_VIR_2011_0487,Google Cloud,Virginia,United States,2011,146,21,Air Cooled,1.425,Large
+AMA_AMS_2019_0488,Amazon AWS,Amsterdam,Netherlands,2019,118,54,Direct-to-Chip Liquid,1.336,Large
+MIC_DUB_2015_0489,Microsoft Azure,Dublin,Ireland,2015,152,9,Air Cooled,1.309,Hyperscale
+MIC_TOK_2017_0490,Microsoft Azure,Tokyo,Japan,2017,20,25,Direct-to-Chip Liquid,1.352,Standard
+MIC_SAO_2025_0491,Microsoft Azure,Sao Paulo,brazil,2025,57,89,Evaporative Water,1.408,Large
+AMA_DUB_2017_0492,Amazon AWS,Dublin,Unknown,2017,174,16,Air Cooled,1.414,Hyperscale
+MET_FRA_2009_0493,Meta,Frankfurt,Germany,2009,285,0,Evaporative Water,1.672,Hyperscale
+AMA_AMS_2017_0494,Amazon AWS,Amsterdam,Netherlands,2017,86,23,Direct-to-Chip Liquid,1.258,Large
+AMA_ORE_2013_0495,Amazon AWS,Oregon,United States,2013,81,1,Evaporative Water,1.512,Large
+DIG_TEX_2025_0496,Digital Realty,Texas,United States,2025,49,79,Direct-to-Chip Liquid,1.308,Standard
+GOO_VIR_2022_0497,Google Cloud,Virginia,United States,2022,161,52,Direct-to-Chip Liquid,1.405,Hyperscale
+MIC_SAO_2022_0498,Microsoft Azure,Sao Paulo,Brazil,2022,161,41,Direct-to-Chip Liquid,1.278,Hyperscale
+AMA_ORE_2015_0499,Amazon AWS,Oregon,United States,2015,94,13,Air Cooled,1.554,Large
+MIC_DUB_2021_0500,Microsoft Azure,Dublin,Ireland,2021,212,13,Evaporative Water,1.491,Hyperscale
+MIC_IOW_2024_0501,Microsoft Azure,Iowa,United States,2024,213,83,Immersion Cooling,1.259,Hyperscale
+GOO_TOK_2017_0502,Google Cloud,Tokyo,Japan,2017,89,0,Air Cooled,1.405,Large
+AMA_DUB_2013_0503,Amazon AWS,Dublin,ireland,2013,232,16,Air Cooled,1.412,Hyperscale
+MET_CAL_2014_0504,Meta,California,United States,2014,172,5,Air Cooled,1.535,Hyperscale
+AMA_AMS_2012_0505,Amazon AWS,Amsterdam,Netherlands,2012,111,12,Air Cooled,1.608,Large
+MET_ORE_2020_0506,Meta,Oregon,United States,2020,237,17,Air Cooled,1.286,Hyperscale
+GOO_TOK_2018_0507,Google Cloud,Tokyo,Japan,2018,327,49,Evaporative Water,1.383,Hyperscale
+AMA_SYD_2011_0508,Amazon AWS,Sydney,Australia,2011,68,7,Air Cooled,1.372,Large
+MIC_VIR_2013_0509,Microsoft Azure,Virginia,United States,2013,184,11,Evaporative Water,1.463,Hyperscale
+GOO_AMS_2013_0510,Google Cloud,Amsterdam,Netherlands,2013,224,6,Air Cooled,1.344,Hyperscale
+AMA_IOW_2014_0511,Amazon AWS,Iowa,United States,2014,100,7,Air Cooled,1.476,Large
+GOO_AMS_2020_0512,Google Cloud,Amsterdam,Netherlands,2020,222,53,Evaporative Water,1.319,Hyperscale
+AMA_ORE_2009_0513,Amazon AWS,Oregon,United States,2009,65,5,Air Cooled,1.538,Large
+MIC_VIR_2018_0514,Microsoft Azure,Virginia,United States,2018,54,45,Immersion Cooling,1.152,Large
+MIC_TOK_2018_0515,Microsoft Azure,Tokyo,Japan,2018,158,36,Evaporative Water,1.414,Hyperscale
+AMA_SAO_2019_0516,Amazon AWS,Sao Paulo,Brazil,2019,101,43,Evaporative Water,1.279,Large
+MET_ORE_2017_0517,Meta,Oregon,United States,2017,118,11,Direct-to-Chip Liquid,1.294,Large
+MET_MUM_2019_0518,Meta,Mumbai,India,2019,20,32,Air Cooled,1.301,Standard
+MET_DUB_2017_0519,Meta,Dublin,Ireland,2017,125,0,Evaporative Water,1.458,Large
+MIC_MUM_2014_0520,Microsoft Azure,Mumbai,India,2014,200,9,Air Cooled,1.547,Hyperscale
+EQU_TOK_2018_0521,Equinix,Tokyo,Japan,2018,27,10,Air Cooled,1.502,Standard
+DIG_SIN_2021_0522,Digital Realty,Singapore,Singapore,2021,66,25,Evaporative Water,1.364,Large
+AMA_SIN_2020_0523,Amazon AWS,Singapore,Singapore,2020,115,41,Evaporative Water,1.29,Large
+MIC_CAL_2018_0524,Microsoft Azure,California,United States,2018,70,24,Direct-to-Chip Liquid,1.3564214876033056,Large
+GOO_CAL_2022_0525,Google Cloud,California,United States,2022,268,80,Direct-to-Chip Liquid,1.283,Hyperscale
+MIC_SYD_2019_0526,Microsoft Azure,Sydney,Australia,2019,135,20,Evaporative Water,1.349,Large
+AMA_FRA_2020_0527,Amazon AWS,Frankfurt,Germany,2020,245,42,Evaporative Water,1.214,Hyperscale
+DIG_MUM_2016_0528,Digital Realty,Mumbai,India,2016,47,14,Evaporative Water,1.442,Standard
+MET_FRA_2017_0529,Meta,Frankfurt,Germany,2017,275,5,Air Cooled,1.333,Hyperscale
+EQU_TOK_2014_0530,Equinix,Tokyo,Japan,2014,42,2,Air Cooled,1.4232637362637361,Standard
+GOO_SAO_2011_0531,Google Cloud,Sao Paulo,Brazil,2011,46,0,Direct-to-Chip Liquid,1.454,Standard
+AMA_MUM_2013_0532,Amazon AWS,Mumbai,India,2013,208,0,Air Cooled,1.355,Hyperscale
+DIG_MUM_2021_0533,Digital Realty,Mumbai,India,2021,55,58,Evaporative Water,1.3121204819277108,Large
+AMA_MUM_2022_0534,Amazon AWS,Mumbai,India,2022,305,72,Evaporative Water,1.267375,Hyperscale
+MIC_MUM_2019_0535,Microsoft Azure,Mumbai,India,2019,96,47,Evaporative Water,1.227,Large
+MIC_FRA_2019_0536,Microsoft Azure,Frankfurt,Germany,2019,342,32,Air Cooled,1.258,Hyperscale
+GOO_CAL_2018_0537,Google Cloud,California,United States,2018,152,23,Evaporative Water,1.3564214876033056,Hyperscale
+AMA_TEX_2018_0538,Amazon AWS,Texas,United States,2018,257,6,Air Cooled,1.469,Hyperscale
+MIC_TEX_2023_0539,Microsoft Azure,Texas,United States,2023,80,76,Evaporative Water,1.306,Large
+MIC_SYD_2021_0540,Microsoft Azure,Sydney,Australia,2021,219,33,Air Cooled,1.234,Hyperscale
+AMA_ORE_2021_0541,Amazon AWS,Oregon,United States,2021,67,30,Evaporative Water,1.324,Large
+GOO_IOW_2022_0542,Google Cloud,Iowa,United States,2022,154,52,Evaporative Water,1.189,Hyperscale
+MET_CAL_2022_0543,Meta,California,United States,2022,211,92,Evaporative Water,1.26,Hyperscale
+MET_SYD_2011_0544,Meta,Sydney,Australia,2011,250,2,Air Cooled,1.41,Hyperscale
+AMA_TEX_2020_0545,Amazon AWS,Texas,United States,2020,275,32,Evaporative Water,1.328,Hyperscale
+MET_IOW_2017_0546,Meta,Iowa,United States,2017,164,0,Air Cooled,1.469,Hyperscale
+MIC_AMS_2021_0547,Microsoft Azure,Amsterdam,Netherlands,2021,182,29,Air Cooled,1.196,Hyperscale
+GOO_CAL_2018_0548,Google Cloud,California,United States,2018,62,32,Evaporative Water,1.502,Large
+MIC_SAO_2019_0549,Microsoft Azure,Sao Paulo,Brazil,2019,146,17,Evaporative Water,1.061,Large
+MIC_SIN_2018_0550,Microsoft Azure,Singapore,Singapore,2018,30,39,Evaporative Water,1.318,Standard
+AMA_FRA_2014_0551,Amazon AWS,Frankfurt,Germany,2014,276,23,Evaporative Water,1.336,Hyperscale
+MET_SYD_2022_0552,Meta,Sydney,Australia,2022,233,63,Immersion Cooling,1.187,Hyperscale
+EQU_CAL_2017_0553,Equinix,California,United States,2017,48,0,Direct-to-Chip Liquid,1.416,Standard
+DIG_FRA_2022_0554,Digital Realty,Frankfurt,Germany,2022,65,76,Evaporative Water,1.205,Large
+MIC_MUM_2023_0555,Microsoft Azure,Mumbai,India,2023,44,74,Immersion Cooling,1.246,Standard
+MIC_IOW_2015_0556,Microsoft Azure,Iowa,Unknown,2015,33,17,Air Cooled,1.344,Standard
+GOO_SAO_2025_0557,Google Cloud,Sao Paulo,Brazil,2025,125,40,Direct-to-Chip Liquid,1.426,Large
+MET_TEX_2017_0558,Meta,Texas,United States,2017,34,3,Evaporative Water,1.438,Standard
+MIC_DUB_2010_0559,Microsoft Azure,Dublin,Ireland,2010,209,25,Evaporative Water,1.42,Hyperscale
+MIC_CAL_2013_0560,Microsoft Azure,California,United States,2013,107,17,Air Cooled,1.608,Large
+AMA_DUB_2010_0561,Amazon AWS,Dublin,ireland,2010,112,25,Air Cooled,1.593,Large
+AMA_DUB_2017_0562,Amazon AWS,Dublin,Ireland,2017,107,0,Air Cooled,1.502,Large
+MIC_MUM_2012_0563,Microsoft Azure,Mumbai,India,2012,67,12,Air Cooled,1.374,Large
+GOO_SAO_2016_0564,Google Cloud,Sao Paulo,Brazil,2016,260,10,Evaporative Water,1.242,Hyperscale
+AMA_ORE_2020_0565,Amazon AWS,Oregon,United States,2020,142,24,Direct-to-Chip Liquid,1.21,Large
+MIC_VIR_2021_0566,Microsoft Azure,Virginia,United States,2021,111,41,Evaporative Water,1.386,Large
+AMA_SIN_2006_0567,Amazon AWS,Singapore,singapore,2006,203,22,Evaporative Water,1.563,Hyperscale
+MET_VIR_2024_0568,Meta,Virginia,United States,2024,160,100,Evaporative Water,1.155,Hyperscale
+AMA_AMS_2023_0569,Amazon AWS,Amsterdam,Netherlands,2023,102,53,Direct-to-Chip Liquid,1.2113749999999999,Large
+MIC_TOK_2017_0570,Microsoft Azure,Tokyo,Japan,2017,72,7,Air Cooled,1.301,Large
+MIC_IOW_2021_0571,Microsoft Azure,Iowa,United States,2021,111,50,Evaporative Water,1.428,Large
+AMA_TOK_2021_0572,Amazon AWS,Tokyo,Japan,2021,208,33,Evaporative Water,1.223,Hyperscale
+AMA_SYD_2015_0573,Amazon AWS,Sydney,australia,2015,112,6,Air Cooled,1.262,Large
+MET_VIR_2019_0574,Meta,Virginia,United States,2019,66,53,Evaporative Water,1.285,Large
+AMA_TOK_2023_0575,Amazon AWS,Tokyo,Japan,2023,160,59,Direct-to-Chip Liquid,1.065,Hyperscale
+MIC_FRA_2016_0576,Microsoft Azure,Frankfurt,Germany,2016,138,25,Evaporative Water,1.428,Large
+MIC_TOK_2014_0577,Microsoft Azure,Tokyo,Japan,2014,174,13,Air Cooled,1.566,Hyperscale
+MET_DUB_2014_0578,Meta,Dublin,Ireland,2014,185,15,Air Cooled,1.415,Hyperscale
+MIC_DUB_2016_0579,Microsoft Azure,Dublin,Ireland,2016,225,6,Direct-to-Chip Liquid,1.338,Hyperscale
+GOO_SYD_2016_0580,Google Cloud,Sydney,Australia,2016,186,5,Air Cooled,1.286,Hyperscale
+MET_SAO_2019_0581,Meta,Sao Paulo,Brazil,2019,300,23,Direct-to-Chip Liquid,1.249,Hyperscale
+AMA_AMS_2010_0582,Amazon AWS,Amsterdam,Netherlands,2010,20,14,Direct-to-Chip Liquid,1.629,Standard
+AMA_MUM_2021_0583,Amazon AWS,Mumbai,India,2021,124,26,Immersion Cooling,1.306,Large
+GOO_SYD_2022_0584,Google Cloud,Sydney,Australia,2022,78,77,Direct-to-Chip Liquid,1.273,Large
+MET_SYD_2025_0585,Meta,Sydney,Australia,2025,304,70,Immersion Cooling,1.429,Hyperscale
+AMA_SAO_2010_0586,Amazon AWS,Sao Paulo,Brazil,2010,146,3,Air Cooled,1.396,Large
+GOO_ORE_2018_0587,Google Cloud,Oregon,United States,2018,269,33,Evaporative Water,1.445,Hyperscale
+MIC_IOW_2021_0588,Microsoft Azure,Iowa,United States,2021,150,21,Evaporative Water,1.202,Hyperscale
+GOO_TOK_2019_0589,Google Cloud,Tokyo,Japan,2019,204,27,Direct-to-Chip Liquid,1.185,Hyperscale
+MET_FRA_2016_0590,Meta,Frankfurt,Germany,2016,130,5,Air Cooled,1.375,Large
+DIG_DUB_2016_0591,Digital Realty,Dublin,Ireland,2016,54,0,Air Cooled,1.369,Large
+MIC_MUM_2019_0592,Microsoft Azure,Mumbai,India,2019,47,44,Air Cooled,1.247,Standard
+MIC_VIR_2017_0593,Microsoft Azure,Virginia,United States,2017,166,3,Air Cooled,1.309,Hyperscale
+MET_AMS_2015_0594,Meta,Amsterdam,Netherlands,2015,177,0,Evaporative Water,1.344,Hyperscale
+MIC_FRA_2020_0595,Microsoft Azure,Frankfurt,Germany,2020,136,39,Immersion Cooling,1.342,Large
+MIC_VIR_2019_0596,Microsoft Azure,Virginia,United States,2019,74,29,Direct-to-Chip Liquid,1.3206448598130838,Large
+AMA_MUM_2018_0597,Amazon AWS,Mumbai,India,2018,46,35,Air Cooled,1.374,Standard
+MIC_TOK_2018_0598,Microsoft Azure,Tokyo,Japan,2018,93,8,Evaporative Water,1.357,Large
+MIC_SIN_2024_0599,Microsoft Azure,Singapore,Singapore,2024,318,72,Direct-to-Chip Liquid,1.3,Hyperscale
+MIC_AMS_2014_0600,Microsoft Azure,Amsterdam,Netherlands,2014,177,14,Air Cooled,1.301,Hyperscale
+MIC_ORE_2025_0601,Microsoft Azure,Oregon,United States,2025,142,57,Evaporative Water,1.2045714285714286,Large
+MIC_TEX_2025_0602,Microsoft Azure,Texas,United States,2025,266,85,Direct-to-Chip Liquid,1.11,Hyperscale
+AMA_SIN_2011_0603,Amazon AWS,Singapore,Singapore,2011,291,25,Air Cooled,1.566,Hyperscale
+MET_VIR_2011_0604,Meta,Virginia,United States,2011,69,11,Air Cooled,1.467,Large
+MIC_CAL_2012_0605,Microsoft Azure,California,Unknown,2012,253,15,Air Cooled,1.52,Hyperscale
+AMA_SIN_2015_0606,Amazon AWS,Singapore,Singapore,2015,273,8,Air Cooled,1.262,Hyperscale
+AMA_MUM_2018_0607,Amazon AWS,Mumbai,India,2018,266,40,Evaporative Water,1.416,Hyperscale
+GOO_SAO_2014_0608,Google Cloud,Sao Paulo,Brazil,2014,318,16,Air Cooled,1.417,Hyperscale
+AMA_VIR_2014_0609,Amazon AWS,Virginia,United States,2014,173,21,Air Cooled,1.455,Hyperscale
+AMA_VIR_2018_0610,Amazon AWS,Virginia,United States,2018,28,50,Evaporative Water,1.366,Standard
+AMA_TEX_2022_0611,Amazon AWS,Texas,United States,2022,59,90,Direct-to-Chip Liquid,1.319,Large
+GOO_AMS_2014_0612,Google Cloud,Amsterdam,Netherlands,2014,42,0,Direct-to-Chip Liquid,1.466,Standard
+AMA_VIR_2011_0613,Amazon AWS,Virginia,United States,2011,123,22,Evaporative Water,1.557,Large
+AMA_SAO_2017_0614,Amazon AWS,Sao Paulo,brazil,2017,94,0,Evaporative Water,1.452,Large
+GOO_DUB_2019_0615,Google Cloud,Dublin,Ireland,2019,89,5,Evaporative Water,1.418,Large
+AMA_DUB_2012_0616,Amazon AWS,Dublin,Ireland,2012,235,6,Air Cooled,1.4,Hyperscale
+MIC_AMS_2016_0617,Microsoft Azure,Amsterdam,Netherlands,2016,221,23,Evaporative Water,1.413,Hyperscale
+GOO_VIR_2017_0618,Google Cloud,Virginia,United States,2017,159,22,Direct-to-Chip Liquid,1.245,Hyperscale
+MIC_TOK_2016_0619,Microsoft Azure,Tokyo,Japan,2016,150,23,Air Cooled,1.53,Hyperscale
+AMA_SYD_2012_0620,Amazon AWS,Sydney,Australia,2012,280,14,Evaporative Water,1.294,Hyperscale
+MIC_FRA_2016_0621,Microsoft Azure,Frankfurt,Germany,2016,77,9,Air Cooled,1.380973214285714,Large
+MET_SIN_2020_0622,Meta,Singapore,Singapore,2020,69,27,Evaporative Water,1.304,Large
+GOO_DUB_2021_0623,Google Cloud,Dublin,Ireland,2021,251,44,Evaporative Water,1.259,Hyperscale
+GOO_AMS_2017_0624,Google Cloud,Amsterdam,Netherlands,2017,178,17,Air Cooled,1.198,Hyperscale
+GOO_TOK_2016_0625,Google Cloud,Tokyo,Japan,2016,160,11,Air Cooled,1.391,Hyperscale
+MET_CAL_2020_0626,Meta,California,United States,2020,248,21,Air Cooled,1.357,Hyperscale
+AMA_ORE_2012_0627,Amazon AWS,Oregon,United States,2012,62,2,Air Cooled,1.386,Large
+MIC_TOK_2016_0628,Microsoft Azure,Tokyo,Japan,2016,158,20,Air Cooled,1.525,Hyperscale
+MIC_SYD_2016_0629,Microsoft Azure,Sydney,Australia,2016,65,18,Air Cooled,1.144,Large
+MET_SAO_2008_0630,Meta,Sao Paulo,Brazil,2008,268,0,Air Cooled,1.463,Hyperscale
+AMA_SYD_2006_0631,Amazon AWS,Sydney,Australia,2006,182,5,Air Cooled,1.642,Hyperscale
+MET_DUB_2023_0632,Meta,Dublin,Ireland,2023,20,73,Direct-to-Chip Liquid,1.277,Standard
+GOO_TEX_2014_0633,Google Cloud,Texas,Unknown,2014,177,0,Air Cooled,1.477,Hyperscale
+GOO_SAO_2019_0634,Google Cloud,Sao Paulo,Brazil,2019,166,16,Air Cooled,1.223,Hyperscale
+AMA_CAL_2015_0635,Amazon AWS,California,United States,2015,97,0,Evaporative Water,1.349,Large
+AMA_TEX_2014_0636,Amazon AWS,Texas,United States,2014,274,0,Evaporative Water,1.465,Hyperscale
+GOO_TEX_2017_0637,Google Cloud,Texas,united states,2017,179,12,Evaporative Water,1.414,Hyperscale
+GOO_TEX_2014_0638,Google Cloud,Texas,United States,2014,201,25,Evaporative Water,1.344,Hyperscale
+AMA_AMS_2020_0639,Amazon AWS,Amsterdam,Netherlands,2020,154,5,Air Cooled,1.264,Hyperscale
+GOO_SIN_2018_0640,Google Cloud,Singapore,Singapore,2018,149,34,Evaporative Water,1.416,Large
+MET_TEX_2019_0641,Meta,Texas,United States,2019,152,29,Evaporative Water,1.218,Hyperscale
+MIC_TOK_2020_0642,Microsoft Azure,Tokyo,Japan,2020,256,46,Direct-to-Chip Liquid,1.354,Hyperscale
+DIG_AMS_2019_0643,Digital Realty,Amsterdam,Netherlands,2019,35,42,Direct-to-Chip Liquid,1.414,Standard
+MIC_MUM_2020_0644,Microsoft Azure,Mumbai,India,2020,196,15,Evaporative Water,1.335,Hyperscale
+AMA_ORE_2022_0645,Amazon AWS,Oregon,United States,2022,142,86,Direct-to-Chip Liquid,1.366,Large
+DIG_SYD_2016_0646,Digital Realty,Sydney,Australia,2016,5,7,Direct-to-Chip Liquid,1.407,Standard
+GOO_SAO_2023_0647,Google Cloud,Sao Paulo,Brazil,2023,20,70,Direct-to-Chip Liquid,1.198,Standard
+MIC_MUM_2017_0648,Microsoft Azure,Mumbai,India,2017,96,8,Evaporative Water,1.27,Large
+AMA_TEX_2017_0649,Amazon AWS,Texas,United States,2017,90,4,Air Cooled,1.417,Large
+MET_CAL_2018_0650,Meta,California,United States,2018,178,47,Immersion Cooling,1.336,Hyperscale
+MET_ORE_2019_0651,Meta,Oregon,us,2019,104,30,Evaporative Water,1.313,Large
+AMA_SYD_2018_0652,Amazon AWS,Sydney,Australia,2018,214,25,Evaporative Water,1.495,Hyperscale
+AMA_SAO_2012_0653,Amazon AWS,Sao Paulo,Brazil,2012,118,0,Evaporative Water,1.447,Large
+MIC_FRA_2017_0654,Microsoft Azure,Frankfurt,Germany,2017,174,16,Direct-to-Chip Liquid,1.392,Hyperscale
+AMA_IOW_2023_0655,Amazon AWS,Iowa,United States,2023,103,42,Evaporative Water,1.25,Large
+AMA_SYD_2023_0656,Amazon AWS,Sydney,Australia,2023,174,25,Direct-to-Chip Liquid,1.05,Hyperscale
+GOO_SAO_2022_0657,Google Cloud,Sao Paulo,Brazil,2022,270,85,Direct-to-Chip Liquid,1.18,Hyperscale
+AMA_CAL_2013_0658,Amazon AWS,California,United States,2013,121,23,Evaporative Water,1.33,Large
+AMA_CAL_2020_0659,Amazon AWS,California,United States,2020,121,8,Evaporative Water,1.447,Large
+AMA_CAL_2018_0660,Amazon AWS,California,United States,2018,234,47,Direct-to-Chip Liquid,1.261,Hyperscale
+MET_IOW_2024_0661,Meta,Iowa,United States,2024,20,56,Direct-to-Chip Liquid,1.357,Standard
+MIC_ORE_2019_0662,Microsoft Azure,Oregon,United States,2019,218,11,Immersion Cooling,1.414,Hyperscale
+MIC_FRA_2025_0663,Microsoft Azure,Frankfurt,Germany,2025,63,98,Evaporative Water,1.183,Large
+MIC_ORE_2020_0664,Microsoft Azure,Oregon,United States,2020,20,29,Immersion Cooling,1.455,Standard
+MET_SYD_2025_0665,Meta,Sydney,Australia,2025,208,80,Air Cooled,1.119,Hyperscale
+GOO_TOK_2023_0666,Google Cloud,Tokyo,japan,2023,126,72,Evaporative Water,1.064,Large
+MIC_SAO_2022_0667,Microsoft Azure,Sao Paulo,Brazil,2022,254,79,Immersion Cooling,1.244,Hyperscale
+EQU_SAO_2020_0668,Equinix,Sao Paulo,Brazil,2020,29,42,Evaporative Water,1.259,Standard
+MET_ORE_2011_0669,Meta,Oregon,United States,2011,133,7,Air Cooled,1.574,Large
+MET_SIN_2019_0670,Meta,Singapore,Singapore,2019,187,46,Air Cooled,1.357,Hyperscale
+MET_FRA_2012_0671,Meta,Frankfurt,Germany,2012,158,6,Evaporative Water,1.633,Hyperscale
+GOO_FRA_2025_0672,Google Cloud,Frankfurt,Germany,2025,119,55,Direct-to-Chip Liquid,1.223,Large
+MIC_DUB_2020_0673,Microsoft Azure,Dublin,Ireland,2020,233,43,Air Cooled,1.36,Hyperscale
+AMA_ORE_2017_0674,Amazon AWS,Oregon,United States,2017,201,8,Evaporative Water,1.184,Hyperscale
+MIC_FRA_2018_0675,Microsoft Azure,Frankfurt,Germany,2018,147,28,Evaporative Water,1.321,Large
+MET_TOK_2017_0676,Meta,Tokyo,Japan,2017,188,4,Air Cooled,1.384,Hyperscale
+AMA_SYD_2014_0677,Amazon AWS,Sydney,Australia,2014,150,5,Air Cooled,1.4,Hyperscale
+MIC_SYD_2017_0678,Microsoft Azure,Sydney,Australia,2017,31,16,Air Cooled,1.195,Standard
+MET_SIN_2018_0679,Meta,Singapore,Singapore,2018,243,20,Air Cooled,1.428,Hyperscale
+DIG_MUM_2018_0680,Digital Realty,Mumbai,Unknown,2018,43,13,Evaporative Water,1.445,Standard
+AMA_VIR_2012_0681,Amazon AWS,Virginia,United States,2012,258,0,Air Cooled,1.612,Hyperscale
+MIC_MUM_2007_0682,Microsoft Azure,Mumbai,India,2007,148,0,Evaporative Water,1.674,Large
+MET_CAL_2020_0683,Meta,California,United States,2020,150,29,Air Cooled,1.365,Hyperscale
+AMA_SAO_2016_0684,Amazon AWS,Sao Paulo,Brazil,2016,202,20,Air Cooled,1.4,Hyperscale
+MIC_SYD_2018_0685,Microsoft Azure,Sydney,Australia,2018,178,22,Evaporative Water,1.501,Hyperscale
+GOO_AMS_2016_0686,Google Cloud,Amsterdam,Netherlands,2016,328,22,Direct-to-Chip Liquid,1.248,Hyperscale
+AMA_TEX_2017_0687,Amazon AWS,Texas,United States,2017,112,0,Evaporative Water,1.551,Large
+MIC_TOK_2018_0688,Microsoft Azure,Tokyo,Japan,2018,173,40,Air Cooled,1.458,Hyperscale
+AMA_DUB_2015_0689,Amazon AWS,Dublin,Ireland,2015,169,12,Air Cooled,1.358,Hyperscale
+MET_CAL_2024_0690,Meta,California,United States,2024,209,85,Direct-to-Chip Liquid,1.241,Hyperscale
+MET_AMS_2021_0691,Meta,Amsterdam,Netherlands,2021,355,13,Evaporative Water,1.284,Hyperscale
+MET_CAL_2022_0692,Meta,California,United States,2022,99,59,Immersion Cooling,1.2,Large
+GOO_VIR_2021_0693,Google Cloud,Virginia,United States,2021,162,54,Direct-to-Chip Liquid,1.338,Hyperscale
+MET_ORE_2016_0694,Meta,Oregon,United States,2016,20,13,Evaporative Water,1.298,Standard
+MIC_SAO_2024_0695,Microsoft Azure,Sao Paulo,Brazil,2024,202,49,Evaporative Water,1.188,Hyperscale
+MET_CAL_2023_0696,Meta,California,United States,2023,125,75,Direct-to-Chip Liquid,1.121,Large
+GOO_SAO_2015_0697,Google Cloud,Sao Paulo,Brazil,2015,20,9,Direct-to-Chip Liquid,1.523,Standard
+AMA_TOK_2016_0698,Amazon AWS,Tokyo,Japan,2016,196,5,Evaporative Water,1.254,Hyperscale
+MIC_DUB_2012_0699,Microsoft Azure,Dublin,Ireland,2012,270,0,Air Cooled,1.545,Hyperscale
+AMA_SYD_2017_0700,Amazon AWS,Sydney,Australia,2017,230,0,Air Cooled,1.289,Hyperscale
+MIC_VIR_2018_0701,Microsoft Azure,Virginia,United States,2018,146,28,Air Cooled,1.371,Large
+GOO_IOW_2024_0702,Google Cloud,Iowa,United States,2024,39,55,Direct-to-Chip Liquid,1.134,Standard
+GOO_DUB_2015_0703,Google Cloud,Dublin,Ireland,2015,151,0,Air Cooled,1.422,Hyperscale
+DIG_ORE_2013_0704,Digital Realty,Oregon,United States,2013,47,15,Air Cooled,1.592,Standard
+MIC_TOK_2007_0705,Microsoft Azure,Tokyo,Japan,2007,306,25,Air Cooled,1.635,Hyperscale
+MIC_IOW_2022_0706,Microsoft Azure,Iowa,United States,2022,129,95,Evaporative Water,1.281,Large
+AMA_ORE_2019_0707,Amazon AWS,Oregon,United States,2019,20,19,Evaporative Water,1.363,Standard
+MIC_TOK_2018_0708,Microsoft Azure,Tokyo,Japan,2018,288,50,Air Cooled,1.349,Hyperscale
+GOO_CAL_2016_0709,Google Cloud,California,United States,2016,226,20,Air Cooled,1.292,Hyperscale
+AMA_CAL_2018_0710,Amazon AWS,California,United States,2018,129,26,Evaporative Water,1.083,Large
+MET_MUM_2018_0711,Meta,Mumbai,India,2018,312,42,Evaporative Water,1.496,Hyperscale
+DIG_AMS_2022_0712,Digital Realty,Amsterdam,Netherlands,2022,54,58,Evaporative Water,1.23,Large
+MET_CAL_2020_0713,Meta,California,United States,2020,331,54,Evaporative Water,1.548,Hyperscale
+EQU_TOK_2023_0714,Equinix,Tokyo,Japan,2023,73,80,Direct-to-Chip Liquid,1.375,Large
+AMA_SIN_2017_0715,Amazon AWS,Singapore,Singapore,2017,79,4,Air Cooled,1.283,Large
+EQU_TOK_2012_0716,Equinix,Tokyo,Japan,2012,24,12,Air Cooled,1.36,Standard
+MIC_CAL_2020_0717,Microsoft Azure,California,Unknown,2020,259,32,Direct-to-Chip Liquid,1.343,Hyperscale
+GOO_FRA_2021_0718,Google Cloud,Frankfurt,Germany,2021,278,52,Evaporative Water,1.288,Hyperscale
+AMA_SAO_2019_0719,Amazon AWS,Sao Paulo,Brazil,2019,80,32,Evaporative Water,1.466,Large
+EQU_MUM_2025_0720,Equinix,Mumbai,India,2025,53,64,Direct-to-Chip Liquid,1.078,Large
+EQU_TEX_2016_0721,Equinix,Texas,United States,2016,46,25,Air Cooled,1.337,Standard
+GOO_SAO_2012_0722,Google Cloud,Sao Paulo,Brazil,2012,205,18,Air Cooled,1.382,Hyperscale
+AMA_SAO_2016_0723,Amazon AWS,Sao Paulo,Brazil,2016,156,0,Air Cooled,1.393,Hyperscale
+AMA_SIN_2021_0724,Amazon AWS,Singapore,Singapore,2021,219,53,Evaporative Water,1.471,Hyperscale
+MET_FRA_2019_0725,Meta,Frankfurt,Germany,2019,167,8,Evaporative Water,1.34,Hyperscale
+MIC_IOW_2017_0726,Microsoft Azure,Iowa,United States,2017,84,16,Air Cooled,1.472,Large
+MET_TEX_2014_0727,Meta,Texas,United States,2014,20,8,Evaporative Water,1.358,Standard
+AMA_FRA_2014_0728,Amazon AWS,Frankfurt,Germany,2014,286,0,Evaporative Water,1.541,Hyperscale
+AMA_FRA_2013_0729,Amazon AWS,Frankfurt,germany,2013,30,15,Direct-to-Chip Liquid,1.527,Standard
+AMA_TOK_2018_0730,Amazon AWS,Tokyo,Japan,2018,130,60,Evaporative Water,1.408,Large
+AMA_FRA_2015_0731,Amazon AWS,Frankfurt,Germany,2015,305,0,Evaporative Water,1.447,Hyperscale
+DIG_VIR_2014_0732,Digital Realty,Virginia,United States,2014,57,0,Evaporative Water,1.354,Large
+AMA_SYD_2016_0733,Amazon AWS,Sydney,Australia,2016,168,1,Evaporative Water,1.382,Hyperscale
+MIC_MUM_2012_0734,Microsoft Azure,Mumbai,India,2012,98,7,Air Cooled,1.41,Large
+AMA_CAL_2013_0735,Amazon AWS,California,United States,2013,20,19,Air Cooled,1.376,Standard
+MIC_ORE_2019_0736,Microsoft Azure,Oregon,United States,2019,105,40,Evaporative Water,1.24,Large
+AMA_SIN_2015_0737,Amazon AWS,Singapore,Singapore,2015,140,6,Evaporative Water,1.511,Large
+GOO_ORE_2021_0738,Google Cloud,Oregon,Unknown,2021,226,15,Evaporative Water,1.242,Hyperscale
+MIC_SIN_2014_0739,Microsoft Azure,Singapore,Singapore,2014,124,20,Air Cooled,1.357,Large
+DIG_SIN_2024_0740,Digital Realty,Singapore,Singapore,2024,52,61,Direct-to-Chip Liquid,1.235,Large
+GOO_SAO_2018_0741,Google Cloud,Sao Paulo,Brazil,2018,45,33,Air Cooled,1.334,Standard
+MET_VIR_2019_0742,Meta,Virginia,United States,2019,259,19,Evaporative Water,1.398,Hyperscale
+AMA_MUM_2010_0743,Amazon AWS,Mumbai,India,2010,139,23,Air Cooled,1.459,Large
+AMA_IOW_2014_0744,Amazon AWS,Iowa,United States,2014,236,11,Air Cooled,1.427,Hyperscale
+AMA_CAL_2015_0745,Amazon AWS,California,United States,2015,157,25,Air Cooled,1.466,Hyperscale
+EQU_SYD_2017_0746,Equinix,Sydney,Australia,2017,43,6,Evaporative Water,1.336,Standard
+AMA_IOW_2017_0747,Amazon AWS,Iowa,United States,2017,83,3,Air Cooled,1.377,Large
+AMA_TEX_2019_0748,Amazon AWS,Texas,United States,2019,229,26,Air Cooled,1.39,Hyperscale
+AMA_SIN_2021_0749,Amazon AWS,Singapore,Singapore,2021,124,34,Immersion Cooling,1.323,Large
+MET_TOK_2020_0750,Meta,Tokyo,Japan,2020,180,41,Direct-to-Chip Liquid,1.143,Hyperscale
+AMA_ORE_2023_0751,Amazon AWS,Oregon,United States,2023,116,62,Direct-to-Chip Liquid,1.183,Large
+EQU_VIR_2011_0752,Equinix,Virginia,United States,2011,43,11,Air Cooled,1.483,Standard
+DIG_MUM_2019_0753,Digital Realty,Mumbai,Unknown,2019,48,18,Evaporative Water,1.347,Standard
+MIC_TEX_2016_0754,Microsoft Azure,Texas,United States,2016,99,14,Air Cooled,1.388,Large
+AMA_AMS_2019_0755,Amazon AWS,Amsterdam,Netherlands,2019,130,25,Immersion Cooling,1.39,Large
+MIC_SAO_2012_0756,Microsoft Azure,Sao Paulo,Brazil,2012,63,12,Air Cooled,1.483,Large
+AMA_TOK_2021_0757,Amazon AWS,Tokyo,Japan,2021,97,40,Evaporative Water,1.193,Large
+GOO_FRA_2017_0758,Google Cloud,Frankfurt,Germany,2017,161,2,Air Cooled,1.424,Hyperscale
+AMA_FRA_2013_0759,Amazon AWS,Frankfurt,Germany,2013,272,1,Air Cooled,1.559,Hyperscale
+GOO_SAO_2020_0760,Google Cloud,Sao Paulo,Brazil,2020,193,26,Evaporative Water,1.256,Hyperscale
+AMA_CAL_2018_0761,Amazon AWS,California,United States,2018,257,5,Air Cooled,1.443,Hyperscale
+MIC_DUB_2020_0762,Microsoft Azure,Dublin,Ireland,2020,20,13,Air Cooled,1.236,Standard
+MIC_FRA_2024_0763,Microsoft Azure,Frankfurt,Germany,2024,306,62,Evaporative Water,1.453,Hyperscale
+GOO_SYD_2014_0764,Google Cloud,Sydney,Australia,2014,20,2,Air Cooled,1.467,Standard
+MIC_SAO_2016_0765,Microsoft Azure,Sao Paulo,Brazil,2016,162,4,Evaporative Water,1.565,Hyperscale
+GOO_CAL_2016_0766,Google Cloud,California,United States,2016,110,3,Evaporative Water,1.469,Large
+GOO_FRA_2017_0767,Google Cloud,Frankfurt,Germany,2017,70,3,Evaporative Water,1.208,Large
+MIC_IOW_2015_0768,Microsoft Azure,Iowa,United States,2015,142,7,Evaporative Water,1.378,Large
+MET_DUB_2016_0769,Meta,Dublin,Ireland,2016,139,23,Evaporative Water,1.475,Large
+MET_CAL_2019_0770,Meta,California,United States,2019,151,24,Evaporative Water,1.05,Hyperscale
+AMA_CAL_2019_0771,Amazon AWS,California,United States,2019,127,5,Evaporative Water,1.37,Large
+AMA_SAO_2019_0772,Amazon AWS,Sao Paulo,Brazil,2019,168,26,Evaporative Water,1.445,Hyperscale
+AMA_SYD_2022_0773,Amazon AWS,Sydney,Australia,2022,90,91,Immersion Cooling,1.148,Large
+MIC_CAL_2019_0774,Microsoft Azure,California,United States,2019,252,24,Air Cooled,1.296,Hyperscale
+MET_DUB_2016_0775,Meta,Dublin,Ireland,2016,324,0,Evaporative Water,1.297,Hyperscale
+MIC_CAL_2017_0776,Microsoft Azure,California,United States,2017,100,0,Direct-to-Chip Liquid,1.183,Large
+GOO_SYD_2017_0777,Google Cloud,Sydney,Australia,2017,149,19,Evaporative Water,1.445,Large
+EQU_AMS_2016_0778,Equinix,Amsterdam,Netherlands,2016,79,13,Air Cooled,1.205,Large
+AMA_IOW_2020_0779,Amazon AWS,Iowa,United States,2020,252,43,Air Cooled,1.193,Hyperscale
+AMA_SIN_2016_0780,Amazon AWS,Singapore,Singapore,2016,144,0,Air Cooled,1.376,Large
+AMA_FRA_2013_0781,Amazon AWS,Frankfurt,Germany,2013,72,1,Evaporative Water,1.343,Large
+AMA_SIN_2016_0782,Amazon AWS,Singapore,Singapore,2016,233,0,Air Cooled,1.311,Hyperscale
+MET_ORE_2021_0783,Meta,Oregon,United States,2021,20,14,Air Cooled,1.376,Standard
+EQU_SAO_2025_0784,Equinix,Sao Paulo,Brazil,2025,47,96,Direct-to-Chip Liquid,1.144,Standard
+AMA_ORE_2012_0785,Amazon AWS,Oregon,United States,2012,83,10,Evaporative Water,1.442,Large
+GOO_IOW_2016_0786,Google Cloud,Iowa,United States,2016,81,4,Evaporative Water,1.267,Large
+DIG_VIR_2012_0787,Digital Realty,Virginia,United States,2012,15,18,Air Cooled,1.367,Standard
+GOO_ORE_2021_0788,Google Cloud,Oregon,us,2021,223,35,Air Cooled,1.36,Hyperscale
+MIC_SAO_2025_0789,Microsoft Azure,Sao Paulo,Brazil,2025,171,66,Direct-to-Chip Liquid,1.054,Hyperscale
+MIC_SAO_2015_0790,Microsoft Azure,Sao Paulo,Brazil,2015,219,0,Direct-to-Chip Liquid,1.41,Hyperscale
+MIC_ORE_2014_0791,Microsoft Azure,Oregon,United States,2014,130,22,Evaporative Water,1.4232637362637361,Large
+DIG_MUM_2019_0792,Digital Realty,Mumbai,India,2019,58,24,Air Cooled,1.142,Large
+AMA_AMS_2015_0793,Amazon AWS,Amsterdam,Netherlands,2015,62,17,Evaporative Water,1.274,Large
+MIC_IOW_2021_0794,Microsoft Azure,Iowa,United States,2021,178,35,Direct-to-Chip Liquid,1.236,Hyperscale
+MIC_TEX_2014_0795,Microsoft Azure,Texas,United States,2014,120,11,Air Cooled,1.433,Large
+MET_ORE_2014_0796,Meta,Oregon,United States,2014,112,10,Direct-to-Chip Liquid,1.4232637362637361,Large
+MET_TOK_2013_0797,Meta,Tokyo,Unknown,2013,67,10,Air Cooled,1.394,Large
+MET_AMS_2018_0798,Meta,Amsterdam,Netherlands,2018,269,54,Evaporative Water,1.303,Hyperscale
+MIC_SYD_2025_0799,Microsoft Azure,Sydney,Australia,2025,318,50,Direct-to-Chip Liquid,1.201,Hyperscale
+AMA_SYD_2017_0800,Amazon AWS,Sydney,Australia,2017,107,10,Air Cooled,1.193,Large
+MIC_SIN_2020_0801,Microsoft Azure,Singapore,Singapore,2020,20,60,Evaporative Water,1.28,Standard
+AMA_MUM_2012_0802,Amazon AWS,Mumbai,India,2012,200,9,Air Cooled,1.458056603773585,Hyperscale
+GOO_SIN_2019_0803,Google Cloud,Singapore,Singapore,2019,151,49,Air Cooled,1.248,Hyperscale
+MIC_MUM_2015_0804,Microsoft Azure,Mumbai,India,2015,122,7,Air Cooled,1.299,Large
+AMA_SIN_2017_0805,Amazon AWS,Singapore,Singapore,2017,182,6,Air Cooled,1.344,Hyperscale
+AMA_SYD_2022_0806,Amazon AWS,Sydney,Australia,2022,49,96,Direct-to-Chip Liquid,1.336,Standard
+MIC_TOK_2016_0807,Microsoft Azure,Tokyo,Japan,2016,177,7,Air Cooled,1.314,Hyperscale
+MIC_SIN_2011_0808,Microsoft Azure,Singapore,Singapore,2011,188,25,Air Cooled,1.6,Hyperscale
+MIC_DUB_2017_0809,Microsoft Azure,Dublin,Ireland,2017,238,22,Air Cooled,1.429,Hyperscale
+AMA_VIR_2017_0810,Amazon AWS,Virginia,United States,2017,190,25,Air Cooled,1.477,Hyperscale
+MET_SYD_2023_0811,Meta,Sydney,Australia,2023,175,61,Direct-to-Chip Liquid,1.123,Hyperscale
+AMA_MUM_2017_0812,Amazon AWS,Mumbai,India,2017,163,8,Air Cooled,1.482,Hyperscale
+MET_TEX_2019_0813,Meta,Texas,United States,2019,206,25,Evaporative Water,1.408,Hyperscale
+MET_DUB_2021_0814,Meta,Dublin,Ireland,2021,297,22,Evaporative Water,1.41,Hyperscale
+GOO_IOW_2021_0815,Google Cloud,Iowa,United States,2021,119,17,Air Cooled,1.2,Large
+AMA_FRA_2015_0816,Amazon AWS,Frankfurt,Germany,2015,173,9,Air Cooled,1.463,Hyperscale
+AMA_MUM_2018_0817,Amazon AWS,Mumbai,India,2018,213,26,Evaporative Water,1.333,Hyperscale
+GOO_MUM_2009_0818,Google Cloud,Mumbai,India,2009,212,9,Air Cooled,1.549,Hyperscale
+MIC_DUB_2013_0819,Microsoft Azure,Dublin,Ireland,2013,20,0,Air Cooled,1.498,Standard
+EQU_SIN_2023_0820,Equinix,Singapore,Singapore,2023,18,74,Immersion Cooling,1.396,Standard
+MIC_MUM_2016_0821,Microsoft Azure,Mumbai,India,2016,135,0,Air Cooled,1.3,Large
+GOO_MUM_2010_0822,Google Cloud,Mumbai,India,2010,129,6,Air Cooled,1.301,Large
+GOO_IOW_2022_0823,Google Cloud,Iowa,United States,2022,212,69,Direct-to-Chip Liquid,1.426,Hyperscale
+MIC_ORE_2023_0824,Microsoft Azure,Oregon,United States,2023,177,54,Evaporative Water,1.161,Hyperscale
+MET_SIN_2011_0825,Meta,Singapore,Singapore,2011,256,14,Air Cooled,1.448,Hyperscale
+MIC_CAL_2020_0826,Microsoft Azure,California,United States,2020,233,46,Air Cooled,1.225,Hyperscale
+MET_TEX_2023_0827,Meta,Texas,United States,2023,92,69,Direct-to-Chip Liquid,1.166,Large
+MIC_AMS_2022_0828,Microsoft Azure,Amsterdam,Netherlands,2022,65,100,Evaporative Water,1.162,Large
+EQU_TOK_2021_0829,Equinix,Tokyo,japan,2021,49,18,Evaporative Water,1.382,Standard
+MIC_SAO_2017_0830,Microsoft Azure,Sao Paulo,Brazil,2017,135,14,Air Cooled,1.398,Large
+MIC_TEX_2010_0831,Microsoft Azure,Texas,United States,2010,21,11,Evaporative Water,1.657,Standard
+AMA_SAO_2014_0832,Amazon AWS,Sao Paulo,Brazil,2014,182,14,Air Cooled,1.424,Hyperscale
+GOO_DUB_2015_0833,Google Cloud,Dublin,Ireland,2015,205,21,Air Cooled,1.405,Hyperscale
+MIC_AMS_2019_0834,Microsoft Azure,Amsterdam,Netherlands,2019,164,32,Evaporative Water,1.383,Hyperscale
+MET_CAL_2013_0835,Meta,California,United States,2013,20,20,Air Cooled,1.522,Standard
+MIC_TEX_2015_0836,Microsoft Azure,Texas,United States,2015,225,20,Air Cooled,1.217,Hyperscale
+MIC_ORE_2017_0837,Microsoft Azure,Oregon,United States,2017,92,23,Air Cooled,1.36,Large
+GOO_ORE_2019_0838,Google Cloud,Oregon,United States,2019,327,29,Air Cooled,1.239,Hyperscale
+GOO_TEX_2014_0839,Google Cloud,Texas,United States,2014,103,0,Air Cooled,1.578,Large
+GOO_VIR_2016_0840,Google Cloud,Virginia,United States,2016,88,6,Evaporative Water,1.323,Large
+MET_TOK_2014_0841,Meta,Tokyo,japan,2014,208,10,Air Cooled,1.38,Hyperscale
+AMA_DUB_2019_0842,Amazon AWS,Dublin,Ireland,2019,116,16,Air Cooled,1.331,Large
+AMA_TOK_2014_0843,Amazon AWS,Tokyo,Japan,2014,117,16,Evaporative Water,1.4232637362637361,Large
+GOO_TEX_2014_0844,Google Cloud,Texas,United States,2014,176,0,Air Cooled,1.619,Hyperscale
+AMA_SIN_2013_0845,Amazon AWS,Singapore,Singapore,2013,163,12,Air Cooled,1.546,Hyperscale
+AMA_MUM_2023_0846,Amazon AWS,Mumbai,India,2023,170,39,Direct-to-Chip Liquid,1.05,Hyperscale
+AMA_VIR_2019_0847,Amazon AWS,Virginia,United States,2019,69,5,Air Cooled,1.258,Large
+GOO_VIR_2012_0848,Google Cloud,Virginia,United States,2012,68,0,Air Cooled,1.52,Large
+MIC_TEX_2014_0849,Microsoft Azure,Texas,United States,2014,184,0,Air Cooled,1.547,Hyperscale
+MIC_MUM_2008_0850,Microsoft Azure,Mumbai,India,2008,252,0,Air Cooled,1.593,Hyperscale
+AMA_SIN_2021_0851,Amazon AWS,Singapore,Singapore,2021,219,24,Immersion Cooling,1.3121204819277108,Hyperscale
+EQU_IOW_2016_0852,Equinix,Iowa,United States,2016,12,10,Air Cooled,1.362,Standard
+MIC_SYD_2019_0853,Microsoft Azure,Sydney,Australia,2019,187,33,Evaporative Water,1.277,Hyperscale
+AMA_IOW_2012_0854,Amazon AWS,Iowa,United States,2012,20,7,Evaporative Water,1.458056603773585,Standard
+GOO_IOW_2017_0855,Google Cloud,Iowa,United States,2017,147,17,Air Cooled,1.33,Large
+GOO_SIN_2020_0856,Google Cloud,Singapore,Singapore,2020,55,24,Immersion Cooling,1.27,Large
+AMA_CAL_2017_0857,Amazon AWS,California,United States,2017,195,6,Air Cooled,1.41,Hyperscale
+AMA_SYD_2021_0858,Amazon AWS,Sydney,Australia,2021,209,22,Air Cooled,1.062,Hyperscale
+MIC_MUM_2019_0859,Microsoft Azure,Mumbai,India,2019,34,20,Direct-to-Chip Liquid,1.375,Standard
+MET_SYD_2022_0860,Meta,Sydney,Australia,2022,100,63,Immersion Cooling,1.177,Large
+EQU_TEX_2017_0861,Equinix,Texas,United States,2017,31,9,Air Cooled,1.3672589285714287,Standard
+MIC_FRA_2018_0862,Microsoft Azure,Frankfurt,Germany,2018,86,30,Immersion Cooling,1.275,Large
+GOO_MUM_2020_0863,Google Cloud,Mumbai,India,2020,223,37,Air Cooled,1.306,Hyperscale
+MET_TOK_2010_0864,Meta,Tokyo,Japan,2010,330,4,Air Cooled,1.384,Hyperscale
+AMA_VIR_2020_0865,Amazon AWS,Virginia,United States,2020,239,28,Evaporative Water,1.378,Hyperscale
+GOO_MUM_2022_0866,Google Cloud,Mumbai,India,2022,109,88,Direct-to-Chip Liquid,1.234,Large
+AMA_ORE_2014_0867,Amazon AWS,Oregon,Unknown,2014,116,15,Air Cooled,1.404,Large
+MIC_MUM_2016_0868,Microsoft Azure,Mumbai,India,2016,296,24,Air Cooled,1.475,Hyperscale
+DIG_AMS_2020_0869,Digital Realty,Amsterdam,Netherlands,2020,19,30,Direct-to-Chip Liquid,1.297,Standard
+AMA_FRA_2012_0870,Amazon AWS,Frankfurt,Germany,2012,166,15,Evaporative Water,1.367,Hyperscale
+MIC_MUM_2022_0871,Microsoft Azure,Mumbai,India,2022,70,56,Direct-to-Chip Liquid,1.461,Large
+AMA_TEX_2021_0872,Amazon AWS,Texas,United States,2021,60,36,Evaporative Water,1.399,Large
+MIC_FRA_2025_0873,Microsoft Azure,Frankfurt,germany,2025,265,66,Immersion Cooling,1.268,Hyperscale
+MET_VIR_2015_0874,Meta,Virginia,United States,2015,261,18,Air Cooled,1.323,Hyperscale
+AMA_CAL_2014_0875,Amazon AWS,California,United States,2014,212,10,Air Cooled,1.451,Hyperscale
+AMA_SYD_2025_0876,Amazon AWS,Sydney,Australia,2025,307,60,Direct-to-Chip Liquid,1.314,Hyperscale
+EQU_MUM_2018_0877,Equinix,Mumbai,India,2018,77,21,Evaporative Water,1.3564214876033056,Large
+MIC_MUM_2017_0878,Microsoft Azure,Mumbai,India,2017,69,0,Evaporative Water,1.224,Large
+GOO_MUM_2021_0879,Google Cloud,Mumbai,India,2021,160,45,Evaporative Water,1.345,Hyperscale
+MIC_DUB_2013_0880,Microsoft Azure,Dublin,Ireland,2013,195,2,Air Cooled,1.329,Hyperscale
+GOO_CAL_2013_0881,Google Cloud,California,United States,2013,20,2,Air Cooled,1.422,Standard
+GOO_SYD_2018_0882,Google Cloud,Sydney,Australia,2018,84,28,Direct-to-Chip Liquid,1.458,Large
+AMA_IOW_2012_0883,Amazon AWS,Iowa,United States,2012,153,6,Air Cooled,1.35,Hyperscale
+AMA_CAL_2010_0884,Amazon AWS,California,United States,2010,195,3,Direct-to-Chip Liquid,1.407,Hyperscale
+AMA_AMS_2014_0885,Amazon AWS,Amsterdam,Unknown,2014,175,0,Evaporative Water,1.4,Hyperscale
+AMA_TOK_2016_0886,Amazon AWS,Tokyo,Japan,2016,159,3,Air Cooled,1.313,Hyperscale
+AMA_SIN_2014_0887,Amazon AWS,Singapore,Singapore,2014,45,6,Air Cooled,1.495,Standard
+AMA_VIR_2017_0888,Amazon AWS,Virginia,United States,2017,71,0,Air Cooled,1.383,Large
+GOO_TOK_2022_0889,Google Cloud,Tokyo,Japan,2022,247,40,Evaporative Water,1.304,Hyperscale
+AMA_SYD_2013_0890,Amazon AWS,Sydney,Australia,2013,111,1,Air Cooled,1.346,Large
+GOO_AMS_2020_0891,Google Cloud,Amsterdam,Netherlands,2020,20,21,Evaporative Water,1.188,Standard
+MIC_FRA_2024_0892,Microsoft Azure,Frankfurt,Germany,2024,85,100,Direct-to-Chip Liquid,1.276,Large
+MIC_TEX_2020_0893,Microsoft Azure,Texas,United States,2020,153,44,Evaporative Water,1.275,Hyperscale
+GOO_TOK_2022_0894,Google Cloud,Tokyo,Japan,2022,125,37,Evaporative Water,1.36,Large
+AMA_MUM_2013_0895,Amazon AWS,Mumbai,India,2013,53,0,Air Cooled,1.354,Large
+GOO_DUB_2025_0896,Google Cloud,Dublin,Ireland,2025,194,79,Evaporative Water,1.306,Hyperscale
+GOO_AMS_2018_0897,Google Cloud,Amsterdam,Netherlands,2018,124,31,Evaporative Water,1.3,Large
+GOO_MUM_2012_0898,Google Cloud,Mumbai,India,2012,65,20,Air Cooled,1.279,Large
+MET_MUM_2025_0899,Meta,Mumbai,India,2025,200,72,Direct-to-Chip Liquid,1.218,Hyperscale
+MIC_SIN_2011_0900,Microsoft Azure,Singapore,Singapore,2011,77,0,Evaporative Water,1.436,Large
+AMA_TEX_2017_0901,Amazon AWS,Texas,United States,2017,214,14,Air Cooled,1.3672589285714287,Hyperscale
+GOO_DUB_2014_0902,Google Cloud,Dublin,Ireland,2014,68,6,Air Cooled,1.355,Large
+AMA_DUB_2013_0903,Amazon AWS,Dublin,Ireland,2013,132,25,Evaporative Water,1.4412372881355933,Large
+AMA_CAL_2019_0904,Amazon AWS,California,United States,2019,90,38,Evaporative Water,1.432,Large
+MET_FRA_2019_0905,Meta,Frankfurt,Germany,2019,154,16,Direct-to-Chip Liquid,1.301,Hyperscale
+GOO_SIN_2018_0906,Google Cloud,Singapore,Singapore,2018,102,31,Evaporative Water,1.42,Large
+MET_DUB_2018_0907,Meta,Dublin,Ireland,2018,76,18,Air Cooled,1.632,Large
+MIC_SIN_2015_0908,Microsoft Azure,Singapore,Singapore,2015,220,18,Evaporative Water,1.357,Hyperscale
+MET_SAO_2018_0909,Meta,Sao Paulo,Brazil,2018,86,23,Evaporative Water,1.265,Large
+AMA_ORE_2016_0910,Amazon AWS,Oregon,United States,2016,141,8,Air Cooled,1.297,Large
+AMA_DUB_2013_0911,Amazon AWS,Dublin,Ireland,2013,93,17,Evaporative Water,1.535,Large
+AMA_AMS_2014_0912,Amazon AWS,Amsterdam,Netherlands,2014,268,11,Evaporative Water,1.547,Hyperscale
+MET_IOW_2012_0913,Meta,Iowa,United States,2012,146,20,Evaporative Water,1.454,Large
+EQU_SYD_2020_0914,Equinix,Sydney,Australia,2020,68,22,Immersion Cooling,1.41,Large
+MET_TEX_2023_0915,Meta,Texas,United States,2023,20,33,Air Cooled,1.217,Standard
+AMA_AMS_2014_0916,Amazon AWS,Amsterdam,Netherlands,2014,167,0,Evaporative Water,1.465,Hyperscale
+AMA_SAO_2016_0917,Amazon AWS,Sao Paulo,Brazil,2016,69,2,Air Cooled,1.411,Large
+AMA_DUB_2013_0918,Amazon AWS,Dublin,Ireland,2013,103,0,Evaporative Water,1.42,Large
+AMA_TOK_2016_0919,Amazon AWS,Tokyo,Japan,2016,266,15,Air Cooled,1.476,Hyperscale
+AMA_MUM_2018_0920,Amazon AWS,Mumbai,India,2018,20,35,Direct-to-Chip Liquid,1.359,Standard
+MET_SIN_2016_0921,Meta,Singapore,Singapore,2016,146,6,Air Cooled,1.329,Large
+AMA_VIR_2017_0922,Amazon AWS,Virginia,United States,2017,98,0,Air Cooled,1.345,Large
+GOO_MUM_2007_0923,Google Cloud,Mumbai,India,2007,237,0,Air Cooled,1.569,Hyperscale
+GOO_SYD_2008_0924,Google Cloud,Sydney,Australia,2008,220,1,Evaporative Water,1.583,Hyperscale
+GOO_TEX_2016_0925,Google Cloud,Texas,United States,2016,213,3,Evaporative Water,1.502,Hyperscale
+GOO_MUM_2021_0926,Google Cloud,Mumbai,India,2021,20,22,Evaporative Water,1.391,Standard
+MET_IOW_2022_0927,Meta,Iowa,United States,2022,74,68,Immersion Cooling,1.273,Large
+MET_DUB_2010_0928,Meta,Dublin,ireland,2010,206,11,Air Cooled,1.555,Hyperscale
+MIC_AMS_2020_0929,Microsoft Azure,Amsterdam,Netherlands,2020,211,35,Direct-to-Chip Liquid,1.208,Hyperscale
+MIC_FRA_2013_0930,Microsoft Azure,Frankfurt,Germany,2013,145,21,Evaporative Water,1.432,Large
+MET_SIN_2021_0931,Meta,Singapore,Singapore,2021,84,45,Evaporative Water,1.357,Large
+AMA_AMS_2021_0932,Amazon AWS,Amsterdam,Netherlands,2021,35,17,Evaporative Water,1.359,Standard
+MET_FRA_2017_0933,Meta,Frankfurt,Germany,2017,239,1,Air Cooled,1.447,Hyperscale
+GOO_MUM_2018_0934,Google Cloud,Mumbai,India,2018,239,32,Direct-to-Chip Liquid,1.41,Hyperscale
+MIC_SIN_2018_0935,Microsoft Azure,Singapore,Singapore,2018,20,22,Air Cooled,1.405,Standard
+GOO_SYD_2021_0936,Google Cloud,Sydney,Australia,2021,223,19,Direct-to-Chip Liquid,1.256,Hyperscale
+GOO_TEX_2016_0937,Google Cloud,Texas,United States,2016,158,16,Air Cooled,1.494,Hyperscale
+MET_SAO_2019_0938,Meta,Sao Paulo,Brazil,2019,60,28,Air Cooled,1.332,Large
+GOO_ORE_2016_0939,Google Cloud,Oregon,United States,2016,20,0,Air Cooled,1.29,Standard
+GOO_FRA_2019_0940,Google Cloud,Frankfurt,Germany,2019,227,55,Evaporative Water,1.274,Hyperscale
+GOO_SIN_2022_0941,Google Cloud,Singapore,Singapore,2022,229,46,Direct-to-Chip Liquid,1.162,Hyperscale
+MIC_VIR_2017_0942,Microsoft Azure,Virginia,United States,2017,183,0,Air Cooled,1.296,Hyperscale
+AMA_VIR_2014_0943,Amazon AWS,Virginia,United States,2014,130,0,Air Cooled,1.388,Large
+MIC_FRA_2018_0944,Microsoft Azure,Frankfurt,Germany,2018,169,48,Evaporative Water,1.345,Hyperscale
+GOO_DUB_2022_0945,Google Cloud,Dublin,Ireland,2022,48,70,Direct-to-Chip Liquid,1.474,Standard
+AMA_TEX_2014_0946,Amazon AWS,Texas,United States,2014,133,16,Air Cooled,1.545,Large
+DIG_CAL_2013_0947,Digital Realty,California,United States,2013,46,25,Air Cooled,1.361,Standard
+MET_TOK_2023_0948,Meta,Tokyo,Japan,2023,105,61,Immersion Cooling,1.178,Large
+MET_FRA_2021_0949,Meta,Frankfurt,Germany,2021,300,45,Evaporative Water,1.283,Hyperscale
+MET_ORE_2018_0950,Meta,Oregon,United States,2018,336,49,Evaporative Water,1.297,Hyperscale
+AMA_VIR_2024_0951,Amazon AWS,Virginia,United States,2024,260,67,Direct-to-Chip Liquid,1.363,Hyperscale
+GOO_CAL_2024_0952,Google Cloud,California,United States,2024,193,20,Direct-to-Chip Liquid,1.292,Hyperscale
+AMA_SIN_2019_0953,Amazon AWS,Singapore,Singapore,2019,252,33,Air Cooled,1.345,Hyperscale
+GOO_SYD_2020_0954,Google Cloud,Sydney,Australia,2020,183,33,Air Cooled,1.414,Hyperscale
+AMA_DUB_2020_0955,Amazon AWS,Dublin,ireland,2020,28,58,Evaporative Water,1.257,Standard
+EQU_TOK_2018_0956,Equinix,Tokyo,Japan,2018,42,33,Evaporative Water,1.412,Standard
+AMA_VIR_2021_0957,Amazon AWS,Virginia,United States,2021,228,60,Evaporative Water,1.36,Hyperscale
+AMA_SYD_2017_0958,Amazon AWS,Sydney,Australia,2017,108,0,Air Cooled,1.13,Large
+MET_TOK_2007_0959,Meta,Tokyo,Japan,2007,44,15,Air Cooled,1.522,Standard
+MET_IOW_2018_0960,Meta,Iowa,United States,2018,206,18,Air Cooled,1.3564214876033056,Hyperscale
+AMA_CAL_2015_0961,Amazon AWS,California,United States,2015,37,7,Evaporative Water,1.421,Standard
+AMA_SAO_2018_0962,Amazon AWS,Sao Paulo,Brazil,2018,115,8,Evaporative Water,1.397,Large
+MIC_TEX_2012_0963,Microsoft Azure,Texas,United States,2012,235,4,Direct-to-Chip Liquid,1.406,Hyperscale
+MET_FRA_2018_0964,Meta,Frankfurt,Germany,2018,200,15,Evaporative Water,1.505,Hyperscale
+AMA_MUM_2016_0965,Amazon AWS,Mumbai,India,2016,132,0,Evaporative Water,1.338,Large
+AMA_AMS_2019_0966,Amazon AWS,Amsterdam,Netherlands,2019,21,39,Evaporative Water,1.401,Standard
+MIC_FRA_2018_0967,Microsoft Azure,Frankfurt,Germany,2018,155,27,Evaporative Water,1.608,Hyperscale
+MIC_IOW_2015_0968,Microsoft Azure,Iowa,United States,2015,20,11,Evaporative Water,1.399,Standard
+GOO_VIR_2019_0969,Google Cloud,Virginia,United States,2019,80,25,Air Cooled,1.317,Large
+GOO_SYD_2013_0970,Google Cloud,Sydney,Australia,2013,183,18,Evaporative Water,1.551,Hyperscale
+GOO_FRA_2010_0971,Google Cloud,Frankfurt,Germany,2010,97,14,Air Cooled,1.32,Large
+MET_SIN_2021_0972,Meta,Singapore,Singapore,2021,255,39,Evaporative Water,1.326,Hyperscale
+GOO_TEX_2020_0973,Google Cloud,Texas,United States,2020,146,5,Air Cooled,1.263,Large
+AMA_IOW_2017_0974,Amazon AWS,Iowa,United States,2017,342,3,Air Cooled,1.257,Hyperscale
+AMA_TOK_2016_0975,Amazon AWS,Tokyo,Japan,2016,202,25,Air Cooled,1.266,Hyperscale
+GOO_TEX_2018_0976,Google Cloud,Texas,United States,2018,148,16,Air Cooled,1.293,Large
+GOO_SAO_2014_0977,Google Cloud,Sao Paulo,Brazil,2014,206,7,Direct-to-Chip Liquid,1.184,Hyperscale
+MIC_TEX_2022_0978,Microsoft Azure,Texas,United States,2022,204,79,Direct-to-Chip Liquid,1.486,Hyperscale
+EQU_SAO_2022_0979,Equinix,Sao Paulo,Brazil,2022,48,94,Direct-to-Chip Liquid,1.05,Standard
+AMA_FRA_2012_0980,Amazon AWS,Frankfurt,Germany,2012,124,0,Air Cooled,1.359,Large
+MIC_AMS_2020_0981,Microsoft Azure,Amsterdam,Netherlands,2020,207,36,Immersion Cooling,1.299,Hyperscale
+AMA_SIN_2021_0982,Amazon AWS,Singapore,Singapore,2021,90,36,Evaporative Water,1.108,Large
+GOO_TEX_2018_0983,Google Cloud,Texas,United States,2018,149,41,Air Cooled,1.207,Large
+AMA_AMS_2011_0984,Amazon AWS,Amsterdam,Netherlands,2011,42,20,Air Cooled,1.504,Standard
+AMA_MUM_2012_0985,Amazon AWS,Mumbai,Unknown,2012,62,13,Air Cooled,1.597,Large
+MET_AMS_2021_0986,Meta,Amsterdam,Netherlands,2021,204,21,Evaporative Water,1.362,Hyperscale
+MIC_VIR_2018_0987,Microsoft Azure,Virginia,United States,2018,190,5,Evaporative Water,1.408,Hyperscale
+MIC_DUB_2019_0988,Microsoft Azure,Dublin,Ireland,2019,236,32,Evaporative Water,1.232,Hyperscale
+GOO_DUB_2021_0989,Google Cloud,Dublin,Ireland,2021,160,13,Evaporative Water,1.411,Hyperscale
+MET_SYD_2018_0990,Meta,Sydney,Australia,2018,259,27,Air Cooled,1.332,Hyperscale
+AMA_FRA_2022_0991,Amazon AWS,Frankfurt,Germany,2022,221,90,Immersion Cooling,1.278,Hyperscale
+GOO_MUM_2014_0992,Google Cloud,Mumbai,india,2014,20,15,Air Cooled,1.4232637362637361,Standard
+DIG_ORE_2011_0993,Digital Realty,Oregon,United States,2011,26,3,Air Cooled,1.522,Standard
+MIC_SAO_2015_0994,Microsoft Azure,Sao Paulo,Brazil,2015,256,17,Air Cooled,1.344,Hyperscale
+MET_VIR_2022_0995,Meta,Virginia,United States,2022,199,70,Direct-to-Chip Liquid,1.335,Hyperscale
+EQU_SIN_2017_0996,Equinix,Singapore,Singapore,2017,20,18,Air Cooled,1.3672589285714287,Standard
+AMA_SYD_2018_0997,Amazon AWS,Sydney,Australia,2018,114,32,Air Cooled,1.425,Large
+GOO_VIR_2015_0998,Google Cloud,Virginia,United States,2015,54,11,Air Cooled,1.518,Large
+MET_AMS_2013_0999,Meta,Amsterdam,Netherlands,2013,20,4,Air Cooled,1.406,Standard
+AMA_TOK_2023_1000,Amazon AWS,Tokyo,Japan,2023,279,67,Direct-to-Chip Liquid,1.212,Hyperscale
+MET_MUM_2020_1001,Meta,Mumbai,India,2020,146,21,Evaporative Water,1.316,Large
+AMA_SAO_2023_1002,Amazon AWS,Sao Paulo,brazil,2023,20,66,Evaporative Water,1.096,Standard
+AMA_IOW_2023_1003,Amazon AWS,Iowa,United States,2023,155,54,Evaporative Water,1.307,Hyperscale
+MIC_TOK_2016_1004,Microsoft Azure,Tokyo,Japan,2016,34,7,Air Cooled,1.538,Standard
+MET_VIR_2016_1005,Meta,Virginia,Unknown,2016,255,19,Evaporative Water,1.252,Hyperscale
+GOO_TOK_2021_1006,Google Cloud,Tokyo,Japan,2021,37,34,Direct-to-Chip Liquid,1.23,Standard
+GOO_ORE_2020_1007,Google Cloud,Oregon,United States,2020,20,60,Air Cooled,1.315,Standard
+AMA_MUM_2019_1008,Amazon AWS,Mumbai,India,2019,98,42,Air Cooled,1.228,Large
+GOO_SAO_2015_1009,Google Cloud,Sao Paulo,Brazil,2015,81,4,Air Cooled,1.383,Large
+DIG_TEX_2013_1010,Digital Realty,Texas,United States,2013,31,11,Air Cooled,1.422,Standard
+MIC_SYD_2018_1011,Microsoft Azure,Sydney,Australia,2018,116,7,Evaporative Water,1.366,Large
+GOO_AMS_2018_1012,Google Cloud,Amsterdam,Netherlands,2018,158,35,Evaporative Water,1.453,Hyperscale
+MIC_ORE_2022_1013,Microsoft Azure,Oregon,United States,2022,142,63,Direct-to-Chip Liquid,1.233,Large
+AMA_MUM_2021_1014,Amazon AWS,Mumbai,India,2021,51,39,Air Cooled,1.3121204819277108,Large
+MIC_TEX_2020_1015,Microsoft Azure,Texas,United States,2020,58,17,Direct-to-Chip Liquid,1.208,Large
+AMA_SYD_2017_1016,Amazon AWS,Sydney,Australia,2017,284,22,Evaporative Water,1.263,Hyperscale
+AMA_FRA_2021_1017,Amazon AWS,Frankfurt,Germany,2021,66,8,Direct-to-Chip Liquid,1.242,Large
+MIC_FRA_2020_1018,Microsoft Azure,Frankfurt,Germany,2020,123,15,Air Cooled,1.138,Large
+AMA_MUM_2022_1019,Amazon AWS,Mumbai,India,2022,184,66,Evaporative Water,1.3,Hyperscale
+AMA_TOK_2011_1020,Amazon AWS,Tokyo,Japan,2011,105,1,Air Cooled,1.481,Large
+AMA_DUB_2024_1021,Amazon AWS,Dublin,Ireland,2024,173,45,Evaporative Water,1.129,Hyperscale
+DIG_CAL_2015_1022,Digital Realty,California,United States,2015,18,0,Air Cooled,1.593,Standard
+MIC_ORE_2020_1023,Microsoft Azure,Oregon,United States,2020,20,11,Evaporative Water,1.214,Standard
+GOO_ORE_2015_1024,Google Cloud,Oregon,United States,2015,120,3,Air Cooled,1.387,Large
+EQU_TOK_2012_1025,Equinix,Tokyo,Japan,2012,66,4,Evaporative Water,1.605,Large
+GOO_SIN_2019_1026,Google Cloud,Singapore,Singapore,2019,195,39,Air Cooled,1.526,Hyperscale
+MET_AMS_2020_1027,Meta,Amsterdam,Netherlands,2020,147,6,Evaporative Water,1.189,Large
+MIC_ORE_2014_1028,Microsoft Azure,Oregon,United States,2014,36,0,Air Cooled,1.332,Standard
+MIC_IOW_2014_1029,Microsoft Azure,Iowa,United States,2014,213,13,Air Cooled,1.6,Hyperscale
+DIG_AMS_2020_1030,Digital Realty,Amsterdam,Netherlands,2020,38,5,Evaporative Water,1.312,Standard
+MIC_AMS_2019_1031,Microsoft Azure,Amsterdam,netherlands,2019,154,24,Evaporative Water,1.486,Hyperscale
+MIC_MUM_2018_1032,Microsoft Azure,Mumbai,india,2018,241,5,Evaporative Water,1.329,Hyperscale
+AMA_TOK_2020_1033,Amazon AWS,Tokyo,Japan,2020,288,5,Evaporative Water,1.255,Hyperscale
+MET_MUM_2017_1034,Meta,Mumbai,India,2017,137,13,Evaporative Water,1.522,Large
+AMA_FRA_2021_1035,Amazon AWS,Frankfurt,Germany,2021,180,36,Evaporative Water,1.343,Hyperscale
+GOO_TEX_2015_1036,Google Cloud,Texas,United States,2015,20,5,Air Cooled,1.315,Standard
+MIC_SYD_2022_1037,Microsoft Azure,Sydney,Australia,2022,275,70,Direct-to-Chip Liquid,1.379,Hyperscale
+AMA_MUM_2018_1038,Amazon AWS,Mumbai,India,2018,96,10,Evaporative Water,1.32,Large
+MIC_VIR_2010_1039,Microsoft Azure,Virginia,United States,2010,98,4,Air Cooled,1.493,Large
+AMA_MUM_2014_1040,Amazon AWS,Mumbai,India,2014,299,0,Air Cooled,1.44,Hyperscale
+MIC_SYD_2023_1041,Microsoft Azure,Sydney,Australia,2023,139,83,Immersion Cooling,1.308,Large
+MET_AMS_2010_1042,Meta,Amsterdam,Netherlands,2010,162,6,Air Cooled,1.403,Hyperscale
+AMA_CAL_2022_1043,Amazon AWS,California,United States,2022,20,100,Evaporative Water,1.266,Standard
+MIC_SYD_2018_1044,Microsoft Azure,Sydney,Australia,2018,148,31,Air Cooled,1.408,Large
+MIC_FRA_2018_1045,Microsoft Azure,Frankfurt,Germany,2018,191,20,Evaporative Water,1.309,Hyperscale
+MET_ORE_2009_1046,Meta,Oregon,United States,2009,281,6,Evaporative Water,1.589,Hyperscale
+GOO_SAO_2016_1047,Google Cloud,Sao Paulo,Brazil,2016,119,21,Air Cooled,1.549,Large
+MIC_IOW_2015_1048,Microsoft Azure,Iowa,United States,2015,237,8,Air Cooled,1.392,Hyperscale
+AMA_DUB_2014_1049,Amazon AWS,Dublin,Ireland,2014,48,25,Direct-to-Chip Liquid,1.34,Standard
+MIC_CAL_2020_1050,Microsoft Azure,California,United States,2020,184,48,Evaporative Water,1.318,Hyperscale
+AMA_MUM_2025_1051,Amazon AWS,Mumbai,India,2025,115,94,Direct-to-Chip Liquid,1.203,Large
+AMA_DUB_2022_1052,Amazon AWS,Dublin,Ireland,2022,123,86,Direct-to-Chip Liquid,1.302,Large
+GOO_SYD_2017_1053,Google Cloud,Sydney,Australia,2017,101,8,Air Cooled,1.329,Large
+AMA_IOW_2019_1054,Amazon AWS,Iowa,United States,2019,20,20,Air Cooled,1.338,Standard
+MET_AMS_2015_1055,Meta,Amsterdam,Netherlands,2015,197,20,Evaporative Water,1.31,Hyperscale
+MIC_SYD_2014_1056,Microsoft Azure,Sydney,Australia,2014,123,17,Evaporative Water,1.39,Large
+DIG_TOK_2018_1057,Digital Realty,Tokyo,Japan,2018,66,9,Evaporative Water,1.437,Large
+MIC_TEX_2016_1058,Microsoft Azure,Texas,United States,2016,142,15,Evaporative Water,1.458,Large
+MIC_FRA_2013_1059,Microsoft Azure,Frankfurt,Germany,2013,101,25,Air Cooled,1.401,Large
+GOO_ORE_2024_1060,Google Cloud,Oregon,United States,2024,72,82,Direct-to-Chip Liquid,1.246,Large
+AMA_SIN_2021_1061,Amazon AWS,Singapore,Singapore,2021,189,60,Direct-to-Chip Liquid,1.368,Hyperscale
+MIC_AMS_2020_1062,Microsoft Azure,Amsterdam,Netherlands,2020,121,25,Evaporative Water,1.266,Large
+MIC_CAL_2015_1063,Microsoft Azure,California,United States,2015,130,6,Evaporative Water,1.3934302325581394,Large
+MIC_IOW_2016_1064,Microsoft Azure,Iowa,United States,2016,163,12,Direct-to-Chip Liquid,1.388,Hyperscale
+MIC_FRA_2024_1065,Microsoft Azure,Frankfurt,Germany,2024,178,71,Direct-to-Chip Liquid,1.441,Hyperscale
+MIC_FRA_2016_1066,Microsoft Azure,Frankfurt,Germany,2016,20,23,Air Cooled,1.372,Standard
+MIC_SIN_2017_1067,Microsoft Azure,Singapore,Singapore,2017,78,7,Direct-to-Chip Liquid,1.521,Large
+AMA_FRA_2016_1068,Amazon AWS,Frankfurt,Germany,2016,136,22,Air Cooled,1.419,Large
+GOO_CAL_2014_1069,Google Cloud,California,United States,2014,88,13,Air Cooled,1.417,Large
+MET_IOW_2015_1070,Meta,Iowa,United States,2015,224,1,Evaporative Water,1.301,Hyperscale
+AMA_VIR_2021_1071,Amazon AWS,Virginia,United States,2021,130,44,Air Cooled,1.28,Large
+AMA_SYD_2017_1072,Amazon AWS,Sydney,Australia,2017,108,20,Evaporative Water,1.178,Large
+AMA_TEX_2014_1073,Amazon AWS,Texas,United States,2014,20,23,Evaporative Water,1.372,Standard
+MIC_AMS_2018_1074,Microsoft Azure,Amsterdam,Netherlands,2018,97,24,Evaporative Water,1.284,Large
+GOO_TEX_2015_1075,Google Cloud,Texas,Unknown,2015,134,17,Air Cooled,1.422,Large
+GOO_CAL_2013_1076,Google Cloud,California,United States,2013,173,8,Air Cooled,1.466,Hyperscale
+AMA_FRA_2018_1077,Amazon AWS,Frankfurt,Germany,2018,293,16,Evaporative Water,1.1,Hyperscale
+GOO_TEX_2012_1078,Google Cloud,Texas,United States,2012,20,0,Air Cooled,1.473,Standard
+MET_SIN_2014_1079,Meta,Singapore,Singapore,2014,181,15,Air Cooled,1.597,Hyperscale
+AMA_MUM_2016_1080,Amazon AWS,Mumbai,India,2016,113,9,Air Cooled,1.199,Large
+AMA_SIN_2016_1081,Amazon AWS,Singapore,Singapore,2016,20,11,Air Cooled,1.574,Standard
+AMA_ORE_2016_1082,Amazon AWS,Oregon,United States,2016,80,0,Air Cooled,1.33,Large
+GOO_SIN_2012_1083,Google Cloud,Singapore,Singapore,2012,213,19,Evaporative Water,1.486,Hyperscale
+MIC_TEX_2015_1084,Microsoft Azure,Texas,Unknown,2015,149,9,Air Cooled,1.559,Large
+GOO_CAL_2021_1085,Google Cloud,California,United States,2021,106,20,Direct-to-Chip Liquid,1.352,Large
+MIC_MUM_2010_1086,Microsoft Azure,Mumbai,India,2010,20,9,Air Cooled,1.453,Standard
+GOO_MUM_2018_1087,Google Cloud,Mumbai,India,2018,32,16,Air Cooled,1.649,Standard
+GOO_SAO_2013_1088,Google Cloud,Sao Paulo,brazil,2013,217,18,Air Cooled,1.427,Hyperscale
+MIC_ORE_2019_1089,Microsoft Azure,Oregon,United States,2019,235,21,Air Cooled,1.182,Hyperscale
+AMA_IOW_2012_1090,Amazon AWS,Iowa,Unknown,2012,139,15,Air Cooled,1.552,Large
+AMA_TOK_2016_1091,Amazon AWS,Tokyo,Japan,2016,20,0,Air Cooled,1.426,Standard
+AMA_MUM_2020_1092,Amazon AWS,Mumbai,India,2020,169,31,Direct-to-Chip Liquid,1.278,Hyperscale
+MIC_MUM_2012_1093,Microsoft Azure,Mumbai,India,2012,255,0,Air Cooled,1.507,Hyperscale
+MET_SIN_2011_1094,Meta,Singapore,Singapore,2011,178,0,Air Cooled,1.555,Hyperscale
+MIC_MUM_2025_1095,Microsoft Azure,Mumbai,India,2025,88,91,Evaporative Water,1.284,Large
+MIC_TOK_2020_1096,Microsoft Azure,Tokyo,Japan,2020,140,52,Air Cooled,1.284,Large
+DIG_FRA_2018_1097,Digital Realty,Frankfurt,Germany,2018,44,20,Air Cooled,1.367,Standard
+AMA_TEX_2023_1098,Amazon AWS,Texas,United States,2023,137,66,Direct-to-Chip Liquid,1.307,Large
+GOO_TEX_2020_1099,Google Cloud,Texas,United States,2020,208,26,Evaporative Water,1.357,Hyperscale
+MIC_AMS_2013_1100,Microsoft Azure,Amsterdam,Netherlands,2013,112,21,Air Cooled,1.423,Large
+MET_SAO_2015_1101,Meta,Sao Paulo,Brazil,2015,179,12,Air Cooled,1.4,Hyperscale
+MIC_TEX_2019_1102,Microsoft Azure,Texas,United States,2019,153,39,Evaporative Water,1.598,Hyperscale
+MIC_MUM_2015_1103,Microsoft Azure,Mumbai,India,2015,248,0,Air Cooled,1.28,Hyperscale
+AMA_ORE_2020_1104,Amazon AWS,Oregon,United States,2020,176,9,Evaporative Water,1.546,Hyperscale
+MET_MUM_2019_1105,Meta,Mumbai,India,2019,212,60,Evaporative Water,1.494,Hyperscale
+MET_SAO_2021_1106,Meta,Sao Paulo,Brazil,2021,172,43,Evaporative Water,1.256,Hyperscale
+MIC_AMS_2020_1107,Microsoft Azure,Amsterdam,Netherlands,2020,128,28,Evaporative Water,1.203,Large
+MIC_ORE_2014_1108,Microsoft Azure,Oregon,United States,2014,177,10,Air Cooled,1.242,Hyperscale
+AMA_SYD_2011_1109,Amazon AWS,Sydney,Australia,2011,213,5,Air Cooled,1.53,Hyperscale
+MIC_TOK_2020_1110,Microsoft Azure,Tokyo,Japan,2020,228,34,Air Cooled,1.188,Hyperscale
+MET_ORE_2013_1111,Meta,Oregon,United States,2013,258,20,Air Cooled,1.503,Hyperscale
+MET_SIN_2018_1112,Meta,Singapore,Singapore,2018,55,17,Evaporative Water,1.211,Large
+EQU_FRA_2011_1113,Equinix,Frankfurt,Germany,2011,51,19,Air Cooled,1.50340625,Large
+AMA_SYD_2017_1114,Amazon AWS,Sydney,Australia,2017,167,25,Evaporative Water,1.35,Hyperscale
+AMA_MUM_2017_1115,Amazon AWS,Mumbai,India,2017,99,6,Air Cooled,1.423,Large
+GOO_SIN_2015_1116,Google Cloud,Singapore,Singapore,2015,160,16,Air Cooled,1.35,Hyperscale
+MIC_AMS_2016_1117,Microsoft Azure,Amsterdam,Netherlands,2016,98,9,Air Cooled,1.313,Large
+AMA_VIR_2014_1118,Amazon AWS,Virginia,United States,2014,223,18,Air Cooled,1.437,Hyperscale
+MIC_MUM_2022_1119,Microsoft Azure,Mumbai,India,2022,148,60,Direct-to-Chip Liquid,1.348,Large
+MIC_DUB_2017_1120,Microsoft Azure,Dublin,Ireland,2017,121,22,Air Cooled,1.415,Large
+MIC_TEX_2019_1121,Microsoft Azure,Texas,United States,2019,30,11,Direct-to-Chip Liquid,1.345,Standard
+AMA_DUB_2014_1122,Amazon AWS,Dublin,Ireland,2014,294,15,Air Cooled,1.153,Hyperscale
+MIC_VIR_2021_1123,Microsoft Azure,Virginia,United States,2021,363,5,Evaporative Water,1.52,Hyperscale
+MIC_TOK_2017_1124,Microsoft Azure,Tokyo,Japan,2017,122,0,Air Cooled,1.529,Large
+MIC_SAO_2018_1125,Microsoft Azure,Sao Paulo,Brazil,2018,130,48,Evaporative Water,1.325,Large
+MIC_AMS_2012_1126,Microsoft Azure,Amsterdam,Netherlands,2012,50,3,Air Cooled,1.434,Large
+AMA_IOW_2013_1127,Amazon AWS,Iowa,United States,2013,79,10,Air Cooled,1.255,Large
+GOO_TEX_2025_1128,Google Cloud,Texas,United States,2025,122,63,Direct-to-Chip Liquid,1.153,Large
+GOO_SIN_2016_1129,Google Cloud,Singapore,Singapore,2016,118,15,Air Cooled,1.43,Large
+MIC_SAO_2017_1130,Microsoft Azure,Sao Paulo,Brazil,2017,145,23,Air Cooled,1.209,Large
+AMA_SIN_2018_1131,Amazon AWS,Singapore,Singapore,2018,77,18,Evaporative Water,1.3564214876033056,Large
+GOO_CAL_2020_1132,Google Cloud,California,United States,2020,144,9,Evaporative Water,1.406,Large
+MIC_SYD_2016_1133,Microsoft Azure,Sydney,Australia,2016,97,0,Air Cooled,1.483,Large
+GOO_SYD_2013_1134,Google Cloud,Sydney,Australia,2013,142,20,Air Cooled,1.35,Large
+GOO_SAO_2021_1135,Google Cloud,Sao Paulo,Brazil,2021,83,32,Evaporative Water,1.453,Large
+AMA_ORE_2017_1136,Amazon AWS,Oregon,United States,2017,253,8,Evaporative Water,1.422,Hyperscale
+GOO_ORE_2018_1137,Google Cloud,Oregon,United States,2018,158,27,Evaporative Water,1.192,Hyperscale
+MET_AMS_2015_1138,Meta,Amsterdam,Netherlands,2015,130,16,Air Cooled,1.359,Large
+AMA_IOW_2012_1139,Amazon AWS,Iowa,United States,2012,160,0,Air Cooled,1.646,Hyperscale
+AMA_VIR_2019_1140,Amazon AWS,Virginia,Unknown,2019,205,16,Immersion Cooling,1.408,Hyperscale
+AMA_TOK_2014_1141,Amazon AWS,Tokyo,Japan,2014,147,0,Air Cooled,1.347,Large
+GOO_TEX_2018_1142,Google Cloud,Texas,United States,2018,92,30,Evaporative Water,1.47,Large
+GOO_SIN_2013_1143,Google Cloud,Singapore,Singapore,2013,205,10,Evaporative Water,1.271,Hyperscale
+EQU_IOW_2018_1144,Equinix,Iowa,United States,2018,58,24,Evaporative Water,1.301,Large
+MIC_TOK_2021_1145,Microsoft Azure,Tokyo,Japan,2021,219,26,Evaporative Water,1.339,Hyperscale
+AMA_TEX_2019_1146,Amazon AWS,Texas,United States,2019,66,26,Air Cooled,1.358,Large
+GOO_AMS_2018_1147,Google Cloud,Amsterdam,Netherlands,2018,20,26,Evaporative Water,1.301,Standard
+MIC_ORE_2013_1148,Microsoft Azure,Oregon,United States,2013,172,5,Direct-to-Chip Liquid,1.53,Hyperscale
+GOO_IOW_2021_1149,Google Cloud,Iowa,United States,2021,161,48,Air Cooled,1.313,Hyperscale
+GOO_VIR_2014_1150,Google Cloud,Virginia,United States,2014,159,25,Air Cooled,1.278,Hyperscale
+MIC_MUM_2021_1151,Microsoft Azure,Mumbai,India,2021,116,42,Evaporative Water,1.164,Large
+MET_FRA_2014_1152,Meta,Frankfurt,Germany,2014,92,0,Air Cooled,1.433,Large
+MIC_SAO_2024_1153,Microsoft Azure,Sao Paulo,Brazil,2024,112,82,Evaporative Water,1.224,Large
+GOO_SAO_2018_1154,Google Cloud,Sao Paulo,Brazil,2018,302,26,Evaporative Water,1.347,Hyperscale
+MET_AMS_2013_1155,Meta,Amsterdam,Netherlands,2013,117,8,Air Cooled,1.511,Large
+MET_TEX_2024_1156,Meta,Texas,United States,2024,166,83,Direct-to-Chip Liquid,1.148,Hyperscale
+GOO_SIN_2015_1157,Google Cloud,Singapore,Singapore,2015,251,2,Evaporative Water,1.386,Hyperscale
+GOO_SYD_2020_1158,Google Cloud,Sydney,Unknown,2020,171,29,Evaporative Water,1.378,Hyperscale
+MIC_TOK_2013_1159,Microsoft Azure,Tokyo,Japan,2013,210,8,Air Cooled,1.433,Hyperscale
+MET_SAO_2015_1160,Meta,Sao Paulo,Brazil,2015,98,0,Air Cooled,1.395,Large
+MIC_MUM_2016_1161,Microsoft Azure,Mumbai,India,2016,227,9,Air Cooled,1.342,Hyperscale
+AMA_TEX_2023_1162,Amazon AWS,Texas,United States,2023,98,87,Direct-to-Chip Liquid,1.063,Large
+MET_ORE_2017_1163,Meta,Oregon,us,2017,134,0,Air Cooled,1.272,Large
+GOO_ORE_2016_1164,Google Cloud,Oregon,United States,2016,113,10,Evaporative Water,1.242,Large
+AMA_FRA_2018_1165,Amazon AWS,Frankfurt,Germany,2018,181,30,Evaporative Water,1.385,Hyperscale
+AMA_TOK_2016_1166,Amazon AWS,Tokyo,Japan,2016,128,11,Air Cooled,1.3,Large
+MIC_SYD_2013_1167,Microsoft Azure,Sydney,Australia,2013,235,20,Air Cooled,1.413,Hyperscale
+MET_IOW_2019_1168,Meta,Iowa,United States,2019,214,16,Air Cooled,1.345,Hyperscale
+GOO_IOW_2017_1169,Google Cloud,Iowa,United States,2017,151,10,Evaporative Water,1.305,Hyperscale
+AMA_IOW_2018_1170,Amazon AWS,Iowa,United States,2018,253,21,Air Cooled,1.232,Hyperscale
+GOO_TEX_2020_1171,Google Cloud,Texas,United States,2020,31,21,Air Cooled,1.322,Standard
+GOO_MUM_2010_1172,Google Cloud,Mumbai,India,2010,146,20,Air Cooled,1.523,Large
+GOO_VIR_2018_1173,Google Cloud,Virginia,United States,2018,66,60,Evaporative Water,1.427,Large
+EQU_SAO_2011_1174,Equinix,Sao Paulo,Brazil,2011,51,20,Air Cooled,1.566,Large
+GOO_IOW_2014_1175,Google Cloud,Iowa,United States,2014,203,13,Direct-to-Chip Liquid,1.348,Hyperscale
+AMA_CAL_2021_1176,Amazon AWS,California,United States,2021,159,21,Air Cooled,1.393,Hyperscale
+AMA_DUB_2019_1177,Amazon AWS,Dublin,Ireland,2019,95,10,Evaporative Water,1.343,Large
+DIG_AMS_2019_1178,Digital Realty,Amsterdam,Netherlands,2019,21,52,Direct-to-Chip Liquid,1.349,Standard
+AMA_IOW_2020_1179,Amazon AWS,Iowa,United States,2020,170,36,Evaporative Water,1.506,Hyperscale
+MET_DUB_2015_1180,Meta,Dublin,Ireland,2015,156,17,Evaporative Water,1.387,Hyperscale
+EQU_SYD_2014_1181,Equinix,Sydney,Australia,2014,37,8,Evaporative Water,1.423,Standard
+AMA_IOW_2015_1182,Amazon AWS,Iowa,United States,2015,57,12,Air Cooled,1.308,Large
+MIC_AMS_2020_1183,Microsoft Azure,Amsterdam,Netherlands,2020,20,39,Evaporative Water,1.169,Standard
+MET_CAL_2013_1184,Meta,California,United States,2013,137,8,Air Cooled,1.555,Large
+AMA_SIN_2014_1185,Amazon AWS,Singapore,Singapore,2014,39,11,Evaporative Water,1.409,Standard
+DIG_VIR_2012_1186,Digital Realty,Virginia,United States,2012,57,0,Air Cooled,1.708,Large
+MET_SYD_2015_1187,Meta,Sydney,Australia,2015,236,21,Air Cooled,1.343,Hyperscale
+AMA_DUB_2018_1188,Amazon AWS,Dublin,Ireland,2018,161,20,Evaporative Water,1.408,Hyperscale
+AMA_MUM_2019_1189,Amazon AWS,Mumbai,India,2019,214,33,Evaporative Water,1.341,Hyperscale
+AMA_VIR_2025_1190,Amazon AWS,Virginia,United States,2025,125,94,Direct-to-Chip Liquid,1.222,Large
+GOO_SAO_2017_1191,Google Cloud,Sao Paulo,Brazil,2017,68,0,Air Cooled,1.426,Large
+MIC_VIR_2016_1192,Microsoft Azure,Virginia,United States,2016,110,16,Evaporative Water,1.356,Large
+AMA_ORE_2013_1193,Amazon AWS,Oregon,United States,2013,103,22,Direct-to-Chip Liquid,1.357,Large
+AMA_SAO_2010_1194,Amazon AWS,Sao Paulo,Brazil,2010,164,9,Air Cooled,1.467,Hyperscale
+AMA_SAO_2013_1195,Amazon AWS,Sao Paulo,Brazil,2013,142,17,Air Cooled,1.256,Large
+AMA_SYD_2018_1196,Amazon AWS,Sydney,Australia,2018,213,30,Air Cooled,1.356,Hyperscale
+MIC_IOW_2023_1197,Microsoft Azure,Iowa,United States,2023,194,66,Direct-to-Chip Liquid,1.143,Hyperscale
+GOO_FRA_2016_1198,Google Cloud,Frankfurt,Germany,2016,81,22,Air Cooled,1.32,Large
+GOO_SYD_2018_1199,Google Cloud,Sydney,Australia,2018,123,5,Evaporative Water,1.293,Large
